@@ -1,0 +1,978 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.us" tvg-name="ADRENALINA SPORTS NETWORK" tvg-logo="https://logos.xbots.com.mx/1017.png" group-title="DEPORTES",ADRENALINA SPORTS NETWORK
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/2200
+#EXTINF:-1 tvg-id="" tvg-name="AR | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png" group-title="DEPORTES",AR | Deportv
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/29401
+#EXTINF:-1 tvg-id="612directv.cl" tvg-name="AR | DIrectv Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",AR | DIrectv Sports 2 (Argentina)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/75988
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-name="AR | Directv Sports Argentina (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/1200px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",AR | Directv Sports Argentina (SD)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/8706
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-name="AR | Directv Sports Argentina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES",AR | Directv Sports Argentina HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/167
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="AR | Directv Sports Plus (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/640px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES",AR | Directv Sports Plus (Argentina)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/75989
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-name="AR | ESPN " tvg-logo="https://logos.xbots.com.mx/168.png" group-title="DEPORTES",AR | ESPN 
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/172
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="AR | ESPN 2" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="DEPORTES",AR | ESPN 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/173
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-name="AR | ESPN 2 SD" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="DEPORTES",AR | ESPN 2 SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/31423
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 4" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="DEPORTES",AR | ESPN 4
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/78829
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-name="AR | ESPN HD" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="DEPORTES",AR | ESPN HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/31416
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",AR | FOX SPORTS 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/176
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://logos.xbots.com.mx/1019.png" group-title="DEPORTES",AR | FOX SPORTS 3
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/177
+#EXTINF:-1 tvg-id="tycsports.la" tvg-name="AR | TyC SPORTS" tvg-logo="https://logos.xbots.com.mx/41039.png" group-title="DEPORTES",AR | TyC SPORTS
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/434
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ARG | ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ARG | ESPN PREMIUM
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/474
+#EXTINF:-1 tvg-id="foxsports.cl" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",ARG | FOX SPORTS 1
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/175
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="ARG | TNT SPORTS ARGENTINA SD" tvg-logo="https://logos.xbots.com.mx/41050.png" group-title="DEPORTES",ARG | TNT SPORTS ARGENTINA SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/31415
+#EXTINF:-1 tvg-id="AymSports.mx" tvg-name="AYM SPORTS" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/aym_sports-600x540-426041277.png" group-title="DEPORTES",AYM SPORTS
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/197
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="BEIN SPORTS" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c785b6a93ac5824646c67f4/original/square/25.png" group-title="DEPORTES",BEIN SPORTS
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/27329
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="BEIN SPORTS 4" tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png" group-title="DEPORTES",BEIN SPORTS 4
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/230
+#EXTINF:-1 tvg-id="beINSports5.us" tvg-name="BEIN SPORTS 5" tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" group-title="DEPORTES",BEIN SPORTS 5
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/231
+#EXTINF:-1 tvg-id="beINSports6.us" tvg-name="BEIN SPORTS 6" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png" group-title="DEPORTES",BEIN SPORTS 6
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/232
+#EXTINF:-1 tvg-id="beINSports7.us" tvg-name="BEIN SPORTS 7" tvg-logo="https://video.toggle.sg/image/10607094/16x9/947/533/7e72b84cee8ed6382e680e7b2c49935b/St/bein-sports-max-7.png" group-title="DEPORTES",BEIN SPORTS 7
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/233
+#EXTINF:-1 tvg-id="beINSports8.us" tvg-name="BEIN SPORTS 8" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e6d5a775d3246996a182/original/square/25.png" group-title="DEPORTES",BEIN SPORTS 8
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/234
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="BEIN SPORTS LA LIGA" tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/bein-laliga-200x300.png" group-title="DEPORTES",BEIN SPORTS LA LIGA
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/235
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA N" tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES",BEIN SPORTS XTRA N
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/51671
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="DEPORTES",CAZA Y PESCA
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/13648
+#EXTINF:-1 tvg-id="cdo.cl" tvg-name="CL | CDO" tvg-logo="http://logos.xbots.com.mx/CDO_Premium.png" group-title="DEPORTES",CL | CDO
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/4434
+#EXTINF:-1 tvg-id="325dtscl.cl" tvg-name="CL | Directv Sports (Chile)" tvg-logo="https://logos.xbots.com.mx/DirecTV.png" group-title="DEPORTES",CL | Directv Sports (Chile)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/11489
+#EXTINF:-1 tvg-id="612directv.cl" tvg-name="CL | Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",CL | Directv Sports 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/169
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="CL | Directv Sports Plus" tvg-logo="http://futbolhoy.com.ar/wp-content/uploads/2019/03/directv_sports.png" group-title="DEPORTES",CL | Directv Sports Plus
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/170
+#EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="CL | ESPN (Chile)" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="DEPORTES",CL | ESPN (Chile)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/40391
+#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="CL | ESPN 2 CHILE" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="DEPORTES",CL | ESPN 2 CHILE
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/359
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="CL | ESPN 3 " tvg-logo="http://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",CL | ESPN 3 
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/63392
+#EXTINF:-1 tvg-id="608dtv.cl" tvg-name="CL | ESPN 4" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="DEPORTES",CL | ESPN 4
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/75061
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="CL | ESPN EXTRA" tvg-logo="https://logos.xbots.com.mx/41079.png" group-title="DEPORTES",CL | ESPN EXTRA
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/78331
+#EXTINF:-1 tvg-id="foxsports.las" tvg-name="CL | FOX SPORTS 1" tvg-logo="https://logos.xbots.com.mx/foxsport.png" group-title="DEPORTES",CL | FOX SPORTS 1
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/31093
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="CL | Fox Sports 2" tvg-logo="https://logos.xbots.com.mx/foxsport2.png" group-title="DEPORTES",CL | Fox Sports 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/31094
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="CL | Fox Sports 3 (CL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",CL | Fox Sports 3 (CL)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/31095
+#EXTINF:-1 tvg-id="610dtv.co" tvg-name="CO | Directv Sports (Colombia)" tvg-logo="https://logos.xbots.com.mx/DirecTV.png" group-title="DEPORTES",CO | Directv Sports (Colombia)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/63694
+#EXTINF:-1 tvg-id="612directv.cl" tvg-name="CO | DIrectv Sports 2 (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",CO | DIrectv Sports 2 (Colombia)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/63696
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="CO | Directv Sports Plus (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/640px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES",CO | Directv Sports Plus (Colombia)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/63695
+#EXTINF:-1 tvg-id="634dtv.co" tvg-name="CO | Win Sports + SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",CO | Win Sports + SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/5741
+#EXTINF:-1 tvg-id="633dtv.co" tvg-name="CO | Win Sports SD" tvg-logo="http://live.detodotvplay.com:2095/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",CO | Win Sports SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/20897
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 HD" tvg-logo="http://live.detodotvplay.com:8080/images/c50d118e1fa88ac01d06342e36579d41.png" group-title="DEPORTES",DAZN 1 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/44078
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 SD" tvg-logo="http://live.detodotvplay.com:8080/images/c50d118e1fa88ac01d06342e36579d41.png" group-title="DEPORTES",DAZN 1 SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/97507
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DEPORTES",DAZN 2 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/44077
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DEPORTES",DAZN 2 SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/97508
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 HD" tvg-logo="http://live.detodotvplay.com:8080/images/d145e39c4cbe1afe0c16e771e70ba5e5.png" group-title="DEPORTES",DAZN 3 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/44079
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 SD" tvg-logo="http://live.detodotvplay.com:8080/images/d145e39c4cbe1afe0c16e771e70ba5e5.png" group-title="DEPORTES",DAZN 3 SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/97509
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 HD" tvg-logo="http://live.detodotvplay.com:8080/images/a7ca4927b022cf06e975515099496c7d.png" group-title="DEPORTES",DAZN 4 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/44080
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 SD" tvg-logo="http://live.detodotvplay.com:8080/images/a7ca4927b022cf06e975515099496c7d.png" group-title="DEPORTES",DAZN 4 SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/97510
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN F1 SD" tvg-logo="https://logos.xbots.com.mx/1081.png" group-title="DEPORTES",DAZN F1 SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/97511
+#EXTINF:-1 tvg-id="610dtv.ec" tvg-name="EC | Directv Sports (Ecuador)" tvg-logo="https://logos.xbots.com.mx/DirecTV.png" group-title="DEPORTES",EC | Directv Sports (Ecuador)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/63698
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="EC | Directv Sports + (Ecuador)" tvg-logo="https://logos.xbots.com.mx/DirecTV_Sports+.png" group-title="DEPORTES",EC | Directv Sports + (Ecuador)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/63700
+#EXTINF:-1 tvg-id="612directv.cl" tvg-name="EC | Directv Sports 2 (Ecuador)" tvg-logo="https://logos.xbots.com.mx/DirectvSports2.png" group-title="DEPORTES",EC | Directv Sports 2 (Ecuador)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/63699
+#EXTINF:-1 tvg-id="daznlalige.es" tvg-name="ES | Dazn La Liga  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="DEPORTES",ES | Dazn La Liga  HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/58695
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES | DAZN F1 HD" tvg-logo="https://logos.xbots.com.mx/1081.png" group-title="DEPORTES",ES | DAZN F1 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/191
+#EXTINF:-1 tvg-id="" tvg-name="ES | EUROSPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES",ES | EUROSPORTS 1 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/40286
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA LIGA" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg" group-title="DEPORTES",ES | LA LIGA
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/155
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES | MOVISTAR DEPORTES" tvg-logo="https://logos.xbots.com.mx/1053.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/41778
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="ESP | BEIN SPORTS N" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="DEPORTES",ESP | BEIN SPORTS N
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/53
+#EXTINF:-1 tvg-id="lasexta.sp" tvg-name="ESP | La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="ESPANA",ESP | La Sexta
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/339
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="ESPANA",ESP | M+ Deportes
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77348
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Deportes 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" group-title="ESPANA",ESP | M+ Deportes 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77350
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Deportes 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" group-title="ESPANA",ESP | M+ Deportes 3
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77351
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Deportes 4" tvg-logo="https://sport-tv-guide.live/images/stations/a364.png" group-title="ESPANA",ESP | M+ Deportes 4
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77352
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Deportes 5" tvg-logo="https://sport-tv-guide.live/images/stations/a364.png" group-title="ESPANA",ESP | M+ Deportes 5
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77353
+#EXTINF:-1 tvg-id="mpluslaliga.es" tvg-name="ESP | M+ LaLiga" tvg-logo="https://logos.xbots.com.mx/laliga.png" group-title="DEPORTES",ESP | M+ LaLiga
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/185
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ LaLiga 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="ESPANA",ESP | M+ LaLiga 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77283
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ LaLiga 3" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_3.png" group-title="ESPANA",ESP | M+ LaLiga 3
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77284
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Liga de Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="ESPANA",ESP | M+ Liga de Campeones
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/156
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Liga de Campeones 2" tvg-logo="https://www.jazztel.com/FrontComercialJazztel/Documents/logoLigaCampeones_negro_2022.png" group-title="ESPANA",ESP | M+ Liga de Campeones 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77291
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Liga de Campeones 3" tvg-logo="https://www.jazztel.com/FrontComercialJazztel/Documents/logoLigaCampeones_negro_2022.png" group-title="ESPANA",ESP | M+ Liga de Campeones 3
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77292
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Liga de Campeones 4" tvg-logo="https://www.jazztel.com/FrontComercialJazztel/Documents/logoLigaCampeones_negro_2022.png" group-title="ESPANA",ESP | M+ Liga de Campeones 4
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77293
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Liga de Campeones 6" tvg-logo="https://www.jazztel.com/FrontComercialJazztel/Documents/logoLigaCampeones_negro_2022.png" group-title="ESPANA",ESP | M+ Liga de Campeones 6
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77295
+#EXTINF:-1 tvg-id="movistarseries.sp" tvg-name="ESP | M+ SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1419px-Movistar_Series.svg.png" group-title="ESPANA",ESP | M+ SERIES
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/193
+#EXTINF:-1 tvg-id="" tvg-name="ESP | M+ Series 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Movistar_Series_2.svg/1280px-Movistar_Series_2.svg.png" group-title="ESPANA",ESP | M+ Series 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77355
+#EXTINF:-1 tvg-id="vamos.sp" tvg-name="ES | M+ #vamos	" tvg-logo="https://www.thesportsdb.com/images/media/logo/movistar_vamos.png" group-title="ESPANA",ES | M+ #vamos	
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/125
+#EXTINF:-1 tvg-id="la1.sp" tvg-name="ES | LA 1" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/la-1-en-directo-online.png" group-title="ESPANA",ES | LA 1
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/9081
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/61
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3 (AR)" tvg-logo="http://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",ESPN 3 (AR)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/174
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="ESPN EXTRA" tvg-logo="https://logos.xbots.com.mx/41079.png" group-title="DEPORTES",ESPN EXTRA
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/63
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2 HD" tvg-logo="https://w7.pngwing.com/pngs/618/97/png-transparent-television-channel-eurosport-2-eurosport-1-eurosport-hd-television-blue-text.png" group-title="DEPORTES",EUROSPORTS 2 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/40287
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 MX " tvg-logo="https://logos.xbots.com.mx/1019.png" group-title="DEPORTES",FOX SPORTS 3 MX 
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/59
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="DEPORTES",GOLF CHANNEL
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/2193
+#EXTINF:-1 tvg-id="771505.mexico" tvg-name="LAT | Claro Sports" tvg-logo="https://logos.xbots.com.mx/2564.png" group-title="DEPORTES",LAT | Claro Sports
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/15
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Sports Fight" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/02/TAVI_DirecTVSportsFight-lanzamiento.png" group-title="DEPORTES",LAT | Sports Fight
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77790
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Zona T-UDN MX" tvg-logo="http://live.detodotvplay.com:8080/images/tudn.png" group-title="DEPORTES",LAT | Zona T-UDN MX
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/87876
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Zona T-UDN USA" tvg-logo="http://live.detodotvplay.com:8080/images/tudn.png" group-title="DEPORTES",LAT | Zona T-UDN USA
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/88061
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB NETWORK" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2011/09/mlbnetworklogo.png" group-title="DEPORTES",MLB NETWORK
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/18640
+#EXTINF:-1 tvg-id="" tvg-name="MX | AFIZZIONADOS " tvg-logo="https://logos.xbots.com.mx/1018.png" group-title="DEPORTES",MX | AFIZZIONADOS 
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/286
+#EXTINF:-1 tvg-id="espn.co" tvg-name="MX | ESPN" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="DEPORTES",MX | ESPN
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/60
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX | ESPN 2 HD" tvg-logo="https://logos.xbots.com.mx/169.png" group-title="DEPORTES",MX | ESPN 2 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/252
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="MX | ESPN 3" tvg-logo="http://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",MX | ESPN 3
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/62
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX | ESPN 3 HD" tvg-logo="http://logos.xbots.com.mx/Espn3.png" group-title="DEPORTES",MX | ESPN 3 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/253
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="MX | ESPN EXTRA HD" tvg-logo="https://logos.xbots.com.mx/41079.png" group-title="DEPORTES",MX | ESPN EXTRA HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/9672
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX | ESPN HD" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="DEPORTES",MX | ESPN HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/251
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MX | FOX SPORTS 2 HD" tvg-logo="https://logos.xbots.com.mx/foxsport2.png" group-title="DEPORTES",MX | FOX SPORTS 2 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/249
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX | FOX SPORTS 3 MX HD" tvg-logo="https://logos.xbots.com.mx/1019.png" group-title="DEPORTES",MX | FOX SPORTS 3 MX HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/250
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX | FOX SPORTS MX HD" tvg-logo="https://logos.xbots.com.mx/41038.png" group-title="DEPORTES",MX | FOX SPORTS MX HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/248
+#EXTINF:-1 tvg-id="1028928.mexico" tvg-name="MX | Fox Sports Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="DEPORTES",MX | Fox Sports Premium HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/78194
+#EXTINF:-1 tvg-id="" tvg-name="MX | Sports 16" tvg-logo="https://files-pm.prod.pm.brightcove.com/mop/FhN2MyOlEAUn2NZ0OM94L7XNcL0f/images/20911807/SKY-SPORTS_16.png" group-title="DEPORTES",MX | Sports 16
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/84591
+#EXTINF:-1 tvg-id="" tvg-name="MX | Sports 24" tvg-logo="https://files-pm.prod.pm.brightcove.com/mop/FhN2MyOlEAUn2NZ0OM94L7XNcL0f/images/38893981/skysports24.png" group-title="DEPORTES",MX | Sports 24
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/90057
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX | T-UDN MX" tvg-logo="https://logos.xbots.com.mx/41040.png" group-title="DEPORTES",MX | T-UDN MX
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/137
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="MX | TVC DEPORTES HD (1080p)" tvg-logo="https://logos.xbots.com.mx/41074.png" group-title="DEPORTES",MX | TVC DEPORTES HD (1080p)
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/60998
+#EXTINF:-1 tvg-id="" tvg-name="NFL RED ZONE | ONLY SUNDAYS" tvg-logo="https://www.pngitem.com/pimgs/m/2-29649_logopedia10-nfl-redzone-channel-logo-hd-png-download.png" group-title="DEPORTES",NFL RED ZONE | ONLY SUNDAYS
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/318
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL NETWORK" tvg-logo="https://www.pngitem.com/pimgs/m/444-4446997_nhl-network-logo-transparent-cartoons-nhl-network-logo.png" group-title="DEPORTES",NHL NETWORK
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/37633
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-name="PE | DIRECTV SPORTS PERU" tvg-logo="https://logos.xbots.com.mx/DirecTV.png" group-title="DEPORTES",PE | DIRECTV SPORTS PERU
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/54418
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="PE | GOL PERU" tvg-logo="https://www.ver-futbol-online.com/golperu.png" group-title="DEPORTES",PE | GOL PERU
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/371
+#EXTINF:-1 tvg-id="" tvg-name="PE | MOVISTAR DEPORTES" tvg-logo="https://logos.xbots.com.mx/1053.png" group-title="DEPORTES",PE | MOVISTAR DEPORTES
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/12883
+#EXTINF:-1 tvg-id="" tvg-name="PE | MOVISTAR PLUS" tvg-logo="http://144.217.91.146/Logos/Peru/movistar-plus-pe.png" group-title="DEPORTES",PE | MOVISTAR PLUS
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/49956
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="REAL MADRID TV" tvg-logo="https://logos.xbots.com.mx/1003.png" group-title="DEPORTES",REAL MADRID TV
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/11299
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV" tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png" group-title="DEPORTES",REDBULL TV
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/4952
+#EXTINF:-1 tvg-id="" tvg-name="S-CAI SPORT Bundesliga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/2560px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png" group-title="DEPORTES",S-CAI SPORT Bundesliga 1
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/69833
+#EXTINF:-1 tvg-id="" tvg-name="S-CAI SPORT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="DEPORTES",S-CAI SPORT NEWS
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/69836
+#EXTINF:-1 tvg-id="" tvg-name="S-CAI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES",S-CAI SPORTS
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/69834
+#EXTINF:-1 tvg-id="" tvg-name="S-CAI SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg/1280px-Sky_Sport_2_HD_-_Logo_2015.svg.png" group-title="DEPORTES",S-CAI SPORTS 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/69835
+#EXTINF:-1 tvg-id="" tvg-name="S-CAI SPORTS GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/1200px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="DEPORTES",S-CAI SPORTS GOLF
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/69832
+#EXTINF:-1 tvg-id="" tvg-name="S-CAI SPORTS MAIN EVENT" tvg-logo="https://vidmovin.com/media/catalog/product/cache/193190d619b7c805510e13a1cc7d50d4/81/EPG00411/000004238.png" group-title="DEPORTES",S-CAI SPORTS MAIN EVENT
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/69831
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="S-CAI SPORTS PREMIER LEAGUE" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="DEPORTES",S-CAI SPORTS PREMIER LEAGUE
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/69830
+#EXTINF:-1 tvg-id="" tvg-name="T-UDN USA SD" tvg-logo="https://logos.xbots.com.mx/41040.png" group-title="DEPORTES",T-UDN USA SD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/98
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="TENNIS CHANNEL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31Xz3ftsAWL.png" group-title="DEPORTES",TENNIS CHANNEL
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/211
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="TNT SPORTS 2 CHILE HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tnt-sports-2-cl-2561.png" group-title="DEPORTES",TNT SPORTS 2 CHILE HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/92
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT SPORTS 3 CHILE HD" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="DEPORTES",TNT SPORTS 3 CHILE HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/37632
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT SPORTS ARGENTINA HD" tvg-logo="https://logos.xbots.com.mx/41050.png" group-title="DEPORTES",TNT SPORTS ARGENTINA HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/338
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports Chile Basico" tvg-logo="https://tntsports.cl/__export/1610632682405/sites/cdfchile/arte/apps/precomposed_20210114.png_285119621.png" group-title="DEPORTES",TNT Sports Chile Basico
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/355
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT SPORTS CHILE HD" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="DEPORTES",TNT SPORTS CHILE HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/140
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT Sports Chile Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="DEPORTES",TNT Sports Chile Premium
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/279
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports GO" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63973_64100_0.png" group-title="DEPORTES",TNT Sports GO
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/91
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="TVC DEPORTES" tvg-logo="https://logos.xbots.com.mx/41074.png" group-title="DEPORTES",TVC DEPORTES
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/2188
+#EXTINF:-1 tvg-id="tycsports.us" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://media02.statarea.com/images/tv/628.png" group-title="DEPORTES",TYC SPORTS INTERNACIONAL
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/84089
+#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="UFC FIGHT PASS" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/niche-builder/5e0a605e63bdc.png" group-title="DEPORTES",UFC FIGHT PASS
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK | Box Nation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="DEPORTES",UK | Box Nation
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/2734
+#EXTINF:-1 tvg-id="" tvg-name="UK|  BT SPORTS 1 HD" tvg-logo="http://live.detodotvplay.com:8080/images/c950fe3a9ae09e987acd39765c99c51d.png" group-title="DEPORTES",UK|  BT SPORTS 1 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/52004
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORT 2" tvg-logo="http://live.detodotvplay.com:8080/images/e681928ab1b80deaca9b6ab139ca2197.png" group-title="DEPORTES",UK| BT SPORT 2
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/52003
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS 2 HD" tvg-logo="http://live.detodotvplay.com:8080/images/b9dcc0ce7bb1e607659c38a356a74588.png" group-title="DEPORTES",UK| BT SPORTS 2 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/52005
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS 3 HD" tvg-logo="http://live.detodotvplay.com:8080/images/dfda9b3bf069f15ab7e03842f720f24f.png" group-title="DEPORTES",UK| BT SPORTS 3 HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/52006
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS ESPN HD" tvg-logo="http://live.detodotvplay.com:8080/images/eea87b17935e56dc5f06a2fffa7ecdc0.png" group-title="DEPORTES",UK| BT SPORTS ESPN HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/52007
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="US | BEIN SPORTS XTRA" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="DEPORTES",US | BEIN SPORTS XTRA
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/17599
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="US | ESPN DEPORTES" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="DEPORTES",US | ESPN DEPORTES
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/212
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="DEPORTES",US | ESPN U
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/34268
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | FOX SOCCER PLUS" tvg-logo="https://tmsimg.fancybits.co/assets/s66880_ll_h3_aa.png" group-title="DEPORTES",US | FOX SOCCER PLUS
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/18580
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US | NBA TV" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2017/07/nba-logo.png" group-title="DEPORTES",US | NBA TV
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/317
+#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="US | SPECTRUM SPORTS NET LA" tvg-logo="https://logos.xbots.com.mx/41042.png" group-title="DEPORTES",US | SPECTRUM SPORTS NET LA
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/30368
+#EXTINF:-1 tvg-id="" tvg-name="US | T-UDN USA HD" tvg-logo="https://logos.xbots.com.mx/41040.png" group-title="DEPORTES",US | T-UDN USA HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/9346
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA | FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="DEPORTES",USA | FOX DEPORTES
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/14928
+#EXTINF:-1 tvg-id="" tvg-name="USA | FUBO SPORTS NETWORK" tvg-logo="https://cdn.mos.cms.futurecdn.net/94AdWHNHdrMoc9kaWpmdK5-320-80.png" group-title="DEPORTES",USA | FUBO SPORTS NETWORK
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/77904
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="USA | NFL NETWORK HD" tvg-logo="https://www.netclipart.com/pp/m/351-3514505_vector-nfl-logo-png-nfl-network-logo-png.png" group-title="DEPORTES",USA | NFL NETWORK HD
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/76
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC12 BAY 12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="DEPORTES",USA | PAC12 BAY 12
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/35191
+#EXTINF:-1 tvg-id="" tvg-name="VE | Meridiano TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Meridiano_Televisi%C3%B3n.png" group-title="DEPORTES",VE | Meridiano TV
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/84316
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1200px-WWE_Logo.svg.png" group-title="DEPORTES",WWE NETWORK
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/4954
+#EXTINF:-1 tvg-id="" tvg-name="+PREM ||| DAZN F1" tvg-logo="http://tvstarlife.com:25461/images/fe115cb2ba6008fe1c3380a3883c2dec.png" group-title="EVE | EXCLUSIVOS",+PREM ||| DAZN F1
+http://tvstarlife.com:25461/maria01/maria01/615
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | MLB Network" tvg-logo="http://tvstarlife.com:25461/images/aaf2f89992379705dac844c0a2a1d45f.png" group-title="EVE | EXCLUSIVOS",+PREM | MLB Network
+http://tvstarlife.com:25461/maria01/maria01/10494
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | NBA TV" tvg-logo="http://tvstarlife.com:25461/images/4443aee183b279f76a95c13c7f5bca0d.png" group-title="EVE | EXCLUSIVOS",+PREM | NBA TV
+http://tvstarlife.com:25461/maria01/maria01/26033
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | NFL Network" tvg-logo="http://tvstarlife.com:25461/images/ed23e9d533a3992b2bfeef6f8601a945.png" group-title="EVE | EXCLUSIVOS",+PREM | NFL Network
+http://tvstarlife.com:25461/maria01/maria01/26009
+#EXTINF:-1 tvg-id="" tvg-name="+PREM ||| NFL Red Zone" tvg-logo="http://tvstarlife.com:25461/images/8eb6d8747175919f27472673a32b3eca.png" group-title="EVE | EXCLUSIVOS",+PREM ||| NFL Red Zone
+http://tvstarlife.com:25461/maria01/maria01/26008
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | NHL NETWORK" tvg-logo="http://tvstarlife.com:25461/images/b555773768bc1a672947d7f41f9c247f.png" group-title="EVE | EXCLUSIVOS",+PREM | NHL NETWORK
+http://tvstarlife.com:25461/maria01/maria01/27044
+#EXTINF:-1 tvg-id="" tvg-name="+PREM ||| Red Bull Tv" tvg-logo="http://tvstarlife.com:25461/images/3d8abfbb5128006d4295b1ab5fc70bad.png" group-title="EVE | EXCLUSIVOS",+PREM ||| Red Bull Tv
+http://tvstarlife.com:25461/maria01/maria01/27463
+#EXTINF:-1 tvg-id="" tvg-name="+PREM ||| SKY LIGA ALEMANA" tvg-logo="http://tvstarlife.com:25461/images/1548af1c94ad45584324df8f08baf227.png" group-title="EVE | EXCLUSIVOS",+PREM ||| SKY LIGA ALEMANA
+http://tvstarlife.com:25461/maria01/maria01/30025
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | SKY LIGA ESPAÑOLA" tvg-logo="http://tvstarlife.com:25461/images/1548af1c94ad45584324df8f08baf227.png" group-title="EVE | EXCLUSIVOS",+PREM | SKY LIGA ESPAÑOLA
+http://tvstarlife.com:25461/maria01/maria01/26199
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | SKY LIGA INGLESA" tvg-logo="http://tvstarlife.com:25461/images/1548af1c94ad45584324df8f08baf227.png" group-title="EVE | EXCLUSIVOS",+PREM | SKY LIGA INGLESA
+http://tvstarlife.com:25461/maria01/maria01/30024
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | STAR+ (Eventos)" tvg-logo="http://tvstarlife.com:25461/images/627fcdb6cc9a5e16d657ca6cdef0a6bb.png" group-title="EVE | EXCLUSIVOS",+PREM | STAR+ (Eventos)
+http://tvstarlife.com:25461/maria01/maria01/33471
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | UFC Figtass" tvg-logo="http://tvstarlife.com:25461/images/9fbcd7dce5e3f334ca61dae6ad57415a.png" group-title="EVE | EXCLUSIVOS",+PREM | UFC Figtass
+http://tvstarlife.com:25461/maria01/maria01/27439
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | WWE Network" tvg-logo="http://tvstarlife.com:25461/images/f1290186a5d0b1ceab27f4e77c0c5d68.png" group-title="EVE | EXCLUSIVOS",+PREM | WWE Network
+http://tvstarlife.com:25461/maria01/maria01/27480
+#EXTINF:-1 tvg-id="" tvg-name="HD | SKY Sports " tvg-logo="http://tvstarlife.com:25461/images/461a2a31b72b47d6abefc33fd1863e13.png" group-title="⚽ PACK SKY SPORTS ⚽",HD | SKY Sports 
+http://tvstarlife.com:25461/maria01/maria01/30020
+#EXTINF:-1 tvg-id="" tvg-name="FHD | SKY Sports 2" tvg-logo="http://tvstarlife.com:25461/images/90bd887920012eb9db9017a61c234adc.png" group-title="⚽ PACK SKY SPORTS ⚽",FHD | SKY Sports 2
+http://tvstarlife.com:25461/maria01/maria01/30019
+#EXTINF:-1 tvg-id="" tvg-name="HD | SKY Sports Golf" tvg-logo="http://tvstarlife.com:25461/images/6844118e4026082e5a7bd613e79b1e27.png" group-title="⚽ PACK SKY SPORTS ⚽",HD | SKY Sports Golf
+http://tvstarlife.com:25461/maria01/maria01/30021
+#EXTINF:-1 tvg-id="" tvg-name="HD | Sky Sports Main Event" tvg-logo="http://tvstarlife.com:25461/images/85ac6ddbd09160a431933d174dfb9362.png" group-title="⚽ PACK SKY SPORTS ⚽",HD | Sky Sports Main Event
+http://tvstarlife.com:25461/maria01/maria01/30022
+#EXTINF:-1 tvg-id="" tvg-name="HD | Sky Sports Premier League" tvg-logo="http://tvstarlife.com:25461/images/856a812c14a32edd3271ec05badd64a9.png" group-title="⚽ PACK SKY SPORTS ⚽",HD | Sky Sports Premier League
+http://tvstarlife.com:25461/maria01/maria01/30023
+#EXTINF:-1 tvg-id="" tvg-name="HD | Sky Sports Arena" tvg-logo="http://tvstarlife.com:25461/images/6229a22a086c46aafc1a66c3cc7524da.png" group-title="⚽ PACK SKY SPORTS ⚽",HD | Sky Sports Arena
+http://tvstarlife.com:25461/maria01/maria01/111334
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN 1" tvg-logo="http://tvstarlife.com:25461/images/0b2641e676aa219a9cda1c939d171053.png" group-title="TV | DEPORTES PREMIUM",MX | ESPN 1
+http://tvstarlife.com:25461/maria01/maria01/1309
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN 2" tvg-logo="http://tvstarlife.com:25461/images/8748e4c4bafdd177af16d5eb62274172.png" group-title="TV | DEPORTES PREMIUM",MX | ESPN 2
+http://tvstarlife.com:25461/maria01/maria01/1310
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN 3" tvg-logo="http://tvstarlife.com:25461/images/64afd43f8e89cdef54439356627fe911.png" group-title="TV | DEPORTES PREMIUM",MX | ESPN 3
+http://tvstarlife.com:25461/maria01/maria01/1311
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN 4" tvg-logo="http://tvstarlife.com:25461/images/d7aadd1953ae9aed625f7b014a5e915c.png" group-title="TV | DEPORTES PREMIUM",MX | ESPN 4
+http://tvstarlife.com:25461/maria01/maria01/32865
+#EXTINF:-1 tvg-id="" tvg-name="MX ||| ESPN NORTE" tvg-logo="http://tvstarlife.com:25461/images/649f7b90d0f745c527a1198f04d278e1.png" group-title="TV | DEPORTES PREMIUM",MX ||| ESPN NORTE
+http://tvstarlife.com:25461/maria01/maria01/112214
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN DEPORTES" tvg-logo="http://tvstarlife.com:25461/images/f676529bbc61891de4ea34a77163ad33.png" group-title="TV | DEPORTES PREMIUM",MX | ESPN DEPORTES
+http://tvstarlife.com:25461/maria01/maria01/27301
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN EXTRA" tvg-logo="http://tvstarlife.com:25461/images/f34f7365222cb5d5a661a6b4a9f713f0.png" group-title="TV | DEPORTES PREMIUM",MX | ESPN EXTRA
+http://tvstarlife.com:25461/maria01/maria01/27299
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN SEC" tvg-logo="http://tvstarlife.com:25461/images/bea749fbf1bafaa1d512117f0c3138b0.png" group-title="TV | DEPORTES PREMIUM",MX | ESPN SEC
+http://tvstarlife.com:25461/maria01/maria01/27300
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX DEPORTES" tvg-logo="http://tvstarlife.com:25461/images/659e1000af357d5dd8955321b3b0ccfd.png" group-title="TV | DEPORTES PREMIUM",MX | FOX DEPORTES
+http://tvstarlife.com:25461/maria01/maria01/27277
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/ce3efb6786c68c6b3621703ae39c4090.png" group-title="TV | DEPORTES PREMIUM",MX | FOX SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/1306
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/603cdf86ef89f161f884f0ddf2e5f00a.png" group-title="TV | DEPORTES PREMIUM",MX | FOX SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/1307
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 3" tvg-logo="http://tvstarlife.com:25461/images/e1b0ad8fdd1f28fcc006c4ac749f8f56.png" group-title="TV | DEPORTES PREMIUM",MX | FOX SPORTS 3
+http://tvstarlife.com:25461/maria01/maria01/1308
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS PREMIUM" tvg-logo="http://tvstarlife.com:25461/images/e2d6ee43fcc007a66a5fe29e28f2a2cd.png" group-title="TV | DEPORTES PREMIUM",MX | FOX SPORTS PREMIUM
+http://tvstarlife.com:25461/maria01/maria01/205
+#EXTINF:-1 tvg-id="" tvg-name="MX | SKY SPORTS LIGA ESPAÑOLA" tvg-logo="http://tvstarlife.com:25461/images/dfaba33655c9bb264a4d46fa5647c162.png" group-title="TV | DEPORTES PREMIUM",MX | SKY SPORTS LIGA ESPAÑOLA
+http://tvstarlife.com:25461/maria01/maria01/26200
+#EXTINF:-1 tvg-id="" tvg-name="MX | SKY SPORTS LIGA INGLESA" tvg-logo="http://tvstarlife.com:25461/images/aeb904b9e7cc0d5abe85ddf38160a03f.png" group-title="TV | DEPORTES PREMIUM",MX | SKY SPORTS LIGA INGLESA
+http://tvstarlife.com:25461/maria01/maria01/27280
+#EXTINF:-1 tvg-id="" tvg-name="MX | TUDN MX" tvg-logo="http://tvstarlife.com:25461/images/20fb5af8d327f368082b07e2a5eed23a.png" group-title="TV | DEPORTES PREMIUM",MX | TUDN MX
+http://tvstarlife.com:25461/maria01/maria01/1282
+#EXTINF:-1 tvg-id="" tvg-name="MX | TUDN USA" tvg-logo="http://tvstarlife.com:25461/images/20fb5af8d327f368082b07e2a5eed23a.png" group-title="TV | DEPORTES PREMIUM",MX | TUDN USA
+http://tvstarlife.com:25461/maria01/maria01/1283
+#EXTINF:-1 tvg-id="" tvg-name="MX | ZONA TUDN" tvg-logo="http://tvstarlife.com:25461/images/20fb5af8d327f368082b07e2a5eed23a.png" group-title="TV | DEPORTES PREMIUM",MX | ZONA TUDN
+http://tvstarlife.com:25461/maria01/maria01/33916
+#EXTINF:-1 tvg-id="" tvg-name="MX | TVC DEPORTES" tvg-logo="http://tvstarlife.com:25461/images/42c5e750b7248af9a663a4e82cd5b644.png" group-title="TV | DEPORTES PREMIUM",MX | TVC DEPORTES
+http://tvstarlife.com:25461/maria01/maria01/1286
+#EXTINF:-1 tvg-id="" tvg-name="A R G E N T I N A" tvg-logo="http://tvstarlife.com:25461/images/59e5e21abce1aa23885f2b7b73798c3e.jpg" group-title="TV | DEPORTES PREMIUM",A R G E N T I N A
+http://tvstarlife.com:25461/maria01/maria01/1326
+#EXTINF:-1 tvg-id="" tvg-name="ARG | DEPORTV" tvg-logo="http://tvstarlife.com:25461/images/0c1ba5b9f98c7421072581e6b495a196.png" group-title="TV | DEPORTES PREMIUM",ARG | DEPORTV
+http://tvstarlife.com:25461/maria01/maria01/1327
+#EXTINF:-1 tvg-id="" tvg-name="ARG | DIRECTV SPORTS +" tvg-logo="http://tvstarlife.com:25461/images/05edce7a53fbc1b716990013788cc28d.png" group-title="TV | DEPORTES PREMIUM",ARG | DIRECTV SPORTS +
+http://tvstarlife.com:25461/maria01/maria01/1303
+#EXTINF:-1 tvg-id="" tvg-name="ARG | DIRECTV SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/05edce7a53fbc1b716990013788cc28d.png" group-title="TV | DEPORTES PREMIUM",ARG | DIRECTV SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/1301
+#EXTINF:-1 tvg-id="" tvg-name="ARG | DIRECTV SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/05edce7a53fbc1b716990013788cc28d.png" group-title="TV | DEPORTES PREMIUM",ARG | DIRECTV SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/1302
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 1" tvg-logo="http://tvstarlife.com:25461/images/470779a7da60f5ac626394ffbaf1a817.png" group-title="TV | DEPORTES PREMIUM",ARG | ESPN 1
+http://tvstarlife.com:25461/maria01/maria01/27303
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 2" tvg-logo="http://tvstarlife.com:25461/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="TV | DEPORTES PREMIUM",ARG | ESPN 2
+http://tvstarlife.com:25461/maria01/maria01/27251
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 3" tvg-logo="http://tvstarlife.com:25461/images/d5717c3e068252e2e88c88285fe00b1f.png" group-title="TV | DEPORTES PREMIUM",ARG | ESPN 3
+http://tvstarlife.com:25461/maria01/maria01/27252
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/e2d6ee43fcc007a66a5fe29e28f2a2cd.png" group-title="TV | DEPORTES PREMIUM",ARG | FOX SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/27253
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/6dbf46091dd7bf48cafabfc96b36ae9e.png" group-title="TV | DEPORTES PREMIUM",ARG | FOX SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/1331
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3" tvg-logo="http://tvstarlife.com:25461/images/18197991d4d6b34290f7be0315245b2f.png" group-title="TV | DEPORTES PREMIUM",ARG | FOX SPORTS 3
+http://tvstarlife.com:25461/maria01/maria01/1332
+#EXTINF:-1 tvg-id="" tvg-name="ARG ||| ESPN PREMIUM" tvg-logo="http://tvstarlife.com:25461/images/649f7b90d0f745c527a1198f04d278e1.png" group-title="TV | DEPORTES PREMIUM",ARG ||| ESPN PREMIUM
+http://tvstarlife.com:25461/maria01/maria01/1333
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS" tvg-logo="http://tvstarlife.com:25461/images/5819d50621ec4b62696747589caf55d2.png" group-title="TV | DEPORTES PREMIUM",ARG | TNT SPORTS
+http://tvstarlife.com:25461/maria01/maria01/1289
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC SPORTS" tvg-logo="http://tvstarlife.com:25461/images/10003df43502634612255e3cac8cf2d0.png" group-title="TV | DEPORTES PREMIUM",ARG | TYC SPORTS
+http://tvstarlife.com:25461/maria01/maria01/310
+#EXTINF:-1 tvg-id="" tvg-name="B  O  L  I  V  I  A" tvg-logo="http://tvstarlife.com:25461/images/490a2510334fce923065e87a5c268c2f.png" group-title="TV | DEPORTES PREMIUM",B  O  L  I  V  I  A
+http://tvstarlife.com:25461/maria01/maria01/1347
+#EXTINF:-1 tvg-id="" tvg-name="BOL | TIGO SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/e077e50374d92135cfc4845e82792516.png" group-title="TV | DEPORTES PREMIUM",BOL | TIGO SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/630
+#EXTINF:-1 tvg-id="" tvg-name="BOL | TIGO SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/e077e50374d92135cfc4845e82792516.png" group-title="TV | DEPORTES PREMIUM",BOL | TIGO SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/1349
+#EXTINF:-1 tvg-id="" tvg-name="BOL | TIGO SPORTS 3" tvg-logo="http://tvstarlife.com:25461/images/e077e50374d92135cfc4845e82792516.png" group-title="TV | DEPORTES PREMIUM",BOL | TIGO SPORTS 3
+http://tvstarlife.com:25461/maria01/maria01/632
+#EXTINF:-1 tvg-id="" tvg-name="C  A  N  A  D  A" tvg-logo="http://tvstarlife.com:25461/images/818702563987df68b57ea94cd9c2f1a9.jpg" group-title="TV | DEPORTES PREMIUM",C  A  N  A  D  A
+http://tvstarlife.com:25461/maria01/maria01/28040
+#EXTINF:-1 tvg-id="" tvg-name="C  H  I  L  E" tvg-logo="http://tvstarlife.com:25461/images/945d2f9af58ef71085f17388f70a198d.jpg" group-title="TV | DEPORTES PREMIUM",C  H  I  L  E
+http://tvstarlife.com:25461/maria01/maria01/1316
+#EXTINF:-1 tvg-id="" tvg-name="CHI | DIRECTV SPORTS" tvg-logo="http://tvstarlife.com:25461/images/88d78930248ba736eca0d12ca151a8a7.png" group-title="TV | DEPORTES PREMIUM",CHI | DIRECTV SPORTS
+http://tvstarlife.com:25461/maria01/maria01/1300
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 1" tvg-logo="http://tvstarlife.com:25461/images/3341ad72bf3dd205c4af7d7e57b104a3.png" group-title="TV | DEPORTES PREMIUM",CHI | ESPN 1
+http://tvstarlife.com:25461/maria01/maria01/1323
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 4" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_11/large.1522528359_ESPN4_Blanco.png.3f18914aea85b43cdf4ff9e6624ede26.png" group-title="TV | DEPORTES PREMIUM",CHI | ESPN 4
+http://tvstarlife.com:25461/maria01/maria01/1324
+#EXTINF:-1 tvg-id="" tvg-name="CHI | FOX SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/10eff018561618cdfcb2fd55f206498a.png" group-title="TV | DEPORTES PREMIUM",CHI | FOX SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/1325
+#EXTINF:-1 tvg-id="" tvg-name="CHI | TNT ESTADIO" tvg-logo="http://tvstarlife.com:25461/images/2118a7698d89fc04affd46e2c824a705.png" group-title="TV | DEPORTES PREMIUM",CHI | TNT ESTADIO
+http://tvstarlife.com:25461/maria01/maria01/136
+#EXTINF:-1 tvg-id="" tvg-name="CHI | TNT SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/47922a480101c3452ebb8d61a517ca67.png" group-title="TV | DEPORTES PREMIUM",CHI | TNT SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/1317
+#EXTINF:-1 tvg-id="" tvg-name="CHI | TNT SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/47922a480101c3452ebb8d61a517ca67.png" group-title="TV | DEPORTES PREMIUM",CHI | TNT SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/1318
+#EXTINF:-1 tvg-id="" tvg-name="CHI | TNT SPORTS 3" tvg-logo="http://tvstarlife.com:25461/images/47922a480101c3452ebb8d61a517ca67.png" group-title="TV | DEPORTES PREMIUM",CHI | TNT SPORTS 3
+http://tvstarlife.com:25461/maria01/maria01/1319
+#EXTINF:-1 tvg-id="" tvg-name="C O L O M B I A" tvg-logo="http://tvstarlife.com:25461/images/7c65072eef75d68620b1f0a72aefe898.png" group-title="TV | DEPORTES PREMIUM",C O L O M B I A
+http://tvstarlife.com:25461/maria01/maria01/1334
+#EXTINF:-1 tvg-id="" tvg-name="COL | DIRECTV SPORTS" tvg-logo="http://tvstarlife.com:25461/images/88d78930248ba736eca0d12ca151a8a7.png" group-title="TV | DEPORTES PREMIUM",COL | DIRECTV SPORTS
+http://tvstarlife.com:25461/maria01/maria01/27305
+#EXTINF:-1 tvg-id="" tvg-name="COL | ESPN 2" tvg-logo="http://tvstarlife.com:25461/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="TV | DEPORTES PREMIUM",COL | ESPN 2
+http://tvstarlife.com:25461/maria01/maria01/27304
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS" tvg-logo="http://tvstarlife.com:25461/images/b573a8bf9d14a96e8d43cb8446b8d178.png" group-title="TV | DEPORTES PREMIUM",COL | WIN SPORTS
+http://tvstarlife.com:25461/maria01/maria01/1336
+#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS PLUS" tvg-logo="http://tvstarlife.com:25461/images/b573a8bf9d14a96e8d43cb8446b8d178.png" group-title="TV | DEPORTES PREMIUM",COL | WIN SPORTS PLUS
+http://tvstarlife.com:25461/maria01/maria01/1337
+#EXTINF:-1 tvg-id="" tvg-name="C O S T A - R I C A" tvg-logo="https://www.estrategiaynegocios.net/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=mhkxceW8NG$W$rAAzl9II8$daE2N3K4ZzOUsqbU5sYvZaHIA$XYa1c$CiwYo0GfZ6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg" group-title="TV | DEPORTES PREMIUM",C O S T A - R I C A
+http://tvstarlife.com:25461/maria01/maria01/28039
+#EXTINF:-1 tvg-id="" tvg-name="COST RIC | FUT TV" tvg-logo="http://tvstarlife.com:25461/images/8dcaee42499c2ab12dfa4dae5d66b13d.png" group-title="TV | DEPORTES PREMIUM",COST RIC | FUT TV
+http://tvstarlife.com:25461/maria01/maria01/16709
+#EXTINF:-1 tvg-id="" tvg-name="COST | TIGO SPORTS" tvg-logo="http://tvstarlife.com:25461/images/91598feaf6addfd8ed2623fe7533db50.png" group-title="TV | DEPORTES PREMIUM",COST | TIGO SPORTS
+http://tvstarlife.com:25461/maria01/maria01/1346
+#EXTINF:-1 tvg-id="" tvg-name="E C U A D O R" tvg-logo="http://tvstarlife.com:25461/images/70fd7cff0ac0e80e8918d0c29789881b.jpg" group-title="TV | DEPORTES PREMIUM",E C U A D O R
+http://tvstarlife.com:25461/maria01/maria01/1299
+#EXTINF:-1 tvg-id="" tvg-name="ECU ||| DIRECTV SPORTS" tvg-logo="http://tvstarlife.com:25461/images/88d78930248ba736eca0d12ca151a8a7.png" group-title="TV | DEPORTES PREMIUM",ECU ||| DIRECTV SPORTS
+http://tvstarlife.com:25461/maria01/maria01/27298
+#EXTINF:-1 tvg-id="" tvg-name="ECU | DIRECTV SPORTS +" tvg-logo="http://tvstarlife.com:25461/images/88d78930248ba736eca0d12ca151a8a7.png" group-title="TV | DEPORTES PREMIUM",ECU | DIRECTV SPORTS +
+http://tvstarlife.com:25461/maria01/maria01/27306
+#EXTINF:-1 tvg-id="" tvg-name="ECU | GOL TV" tvg-logo="http://tvstarlife.com:25461/images/3dfae62f52e3d5df95f02b7200dd1871.png" group-title="TV | DEPORTES PREMIUM",ECU | GOL TV
+http://tvstarlife.com:25461/maria01/maria01/25975
+#EXTINF:-1 tvg-id="" tvg-name="E  S  P  A  Ñ  A" tvg-logo="http://tvstarlife.com:25461/images/6b2565baebb8c13ae19459b344f5f644.jpg" group-title="TV | DEPORTES PREMIUM",E  S  P  A  Ñ  A
+http://tvstarlife.com:25461/maria01/maria01/28038
+#EXTINF:-1 tvg-id="" tvg-name="ESP | Vamos" tvg-logo="http://tvstarlife.com:25461/images/3ee7198c521a921a74c714c4f4007eac.png" group-title="TV | DEPORTES PREMIUM",ESP | Vamos
+http://tvstarlife.com:25461/maria01/maria01/33585
+#EXTINF:-1 tvg-id="" tvg-name="ESP | BEIN SPORTS" tvg-logo="http://tvstarlife.com:25461/images/3170df565ca412d177adb15f795876b9.png" group-title="TV | DEPORTES PREMIUM",ESP | BEIN SPORTS
+http://tvstarlife.com:25461/maria01/maria01/423
+#EXTINF:-1 tvg-id="" tvg-name="ESP | DAZN 1" tvg-logo="http://tvstarlife.com:25461/images/b16583bb7d46945b4da760ca63f79f19.png" group-title="TV | DEPORTES PREMIUM",ESP | DAZN 1
+http://tvstarlife.com:25461/maria01/maria01/26080
+#EXTINF:-1 tvg-id="" tvg-name="ESP | DAZN 2" tvg-logo="http://tvstarlife.com:25461/images/a8629bfc56f0b0561ce0c5fc55b2cd6e.png" group-title="TV | DEPORTES PREMIUM",ESP | DAZN 2
+http://tvstarlife.com:25461/maria01/maria01/26084
+#EXTINF:-1 tvg-id="" tvg-name="ESP ||| DAZN 3" tvg-logo="http://tvstarlife.com:25461/images/17101cf9d8e27c7651ca42649106fcb7.png" group-title="TV | DEPORTES PREMIUM",ESP ||| DAZN 3
+http://tvstarlife.com:25461/maria01/maria01/27397
+#EXTINF:-1 tvg-id="" tvg-name="ESP ||| DAZN 4" tvg-logo="http://tvstarlife.com:25461/images/3d65a0913f583a546647101e0b9dad01.png" group-title="TV | DEPORTES PREMIUM",ESP ||| DAZN 4
+http://tvstarlife.com:25461/maria01/maria01/27398
+#EXTINF:-1 tvg-id="" tvg-name="ESP | Barca TV" tvg-logo="http://tvstarlife.com:25461/images/6f16d91bb4faf5f9c143871c694e1a83.png" group-title="TV | DEPORTES PREMIUM",ESP | Barca TV
+http://tvstarlife.com:25461/maria01/maria01/26053
+#EXTINF:-1 tvg-id="" tvg-name="ESP | La Liga TV Bar" tvg-logo="" group-title="TV | DEPORTES PREMIUM",ESP | La Liga TV Bar
+http://tvstarlife.com:25461/maria01/maria01/26052
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR DEPORTES " tvg-logo="http://tvstarlife.com:25461/images/6c32fa368835a1448e47defee4b05867.png" group-title="TV | DEPORTES PREMIUM",ESP | MOVISTAR DEPORTES 
+http://tvstarlife.com:25461/maria01/maria01/449
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR DEPORTES 2" tvg-logo="http://tvstarlife.com:25461/images/608e0d3c6bf8d2f572e8b146696b2296.png" group-title="TV | DEPORTES PREMIUM",ESP | MOVISTAR DEPORTES 2
+http://tvstarlife.com:25461/maria01/maria01/427
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR GOLF" tvg-logo="http://tvstarlife.com:25461/images/938ce685db809db318f5e5e029c64a35.png" group-title="TV | DEPORTES PREMIUM",ESP | MOVISTAR GOLF
+http://tvstarlife.com:25461/maria01/maria01/422
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR LA LIGA" tvg-logo="http://tvstarlife.com:25461/images/28761726fa2846de89dc58744c0353dd.png" group-title="TV | DEPORTES PREMIUM",ESP | MOVISTAR LA LIGA
+http://tvstarlife.com:25461/maria01/maria01/429
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://tvstarlife.com:25461/images/c46dc330bf804aaca0ff4c8a95bf6abe.png" group-title="TV | DEPORTES PREMIUM",ESP | MOVISTAR LIGA DE CAMPEONES
+http://tvstarlife.com:25461/maria01/maria01/441
+#EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR LIGA DE CAMPEONES 2" tvg-logo="http://tvstarlife.com:25461/images/b5301cc5ea5603c5a5bb8c39ec3e6117.png" group-title="TV | DEPORTES PREMIUM",ESP | MOVISTAR LIGA DE CAMPEONES 2
+http://tvstarlife.com:25461/maria01/maria01/432
+#EXTINF:-1 tvg-id="" tvg-name="ESP | REAL MADRID TV" tvg-logo="http://tvstarlife.com:25461/images/d4275a27691eacd9129594a2493088da.png" group-title="TV | DEPORTES PREMIUM",ESP | REAL MADRID TV
+http://tvstarlife.com:25461/maria01/maria01/421
+#EXTINF:-1 tvg-id="" tvg-name="ESP ||| Eurosport" tvg-logo="http://tvstarlife.com:25461/images/502e340c67eb4dbeb6fa6817738d248a.png" group-title="TV | DEPORTES PREMIUM",ESP ||| Eurosport
+http://tvstarlife.com:25461/maria01/maria01/187
+#EXTINF:-1 tvg-id="" tvg-name="ESP ||| Eurosport 1" tvg-logo="http://tvstarlife.com:25461/images/e840a5a3cc3a284ffe00fa1e20827ecb.png" group-title="TV | DEPORTES PREMIUM",ESP ||| Eurosport 1
+http://tvstarlife.com:25461/maria01/maria01/26780
+#EXTINF:-1 tvg-id="" tvg-name="ESP ||| Eurosport 2" tvg-logo="http://tvstarlife.com:25461/images/172fc3fd386518309d3a15c74009d748.png" group-title="TV | DEPORTES PREMIUM",ESP ||| Eurosport 2
+http://tvstarlife.com:25461/maria01/maria01/26010
+#EXTINF:-1 tvg-id="" tvg-name="I N G L A T E R R A" tvg-logo="http://tvstarlife.com:25461/images/f94743455723964b328c9ab5f26460d0.jpg" group-title="TV | DEPORTES PREMIUM",I N G L A T E R R A
+http://tvstarlife.com:25461/maria01/maria01/28030
+#EXTINF:-1 tvg-id="" tvg-name="ING | Box Nation" tvg-logo="http://tvstarlife.com:25461/images/1389aa9ad7e5361b7fabaa72906fc996.png" group-title="TV | DEPORTES PREMIUM",ING | Box Nation
+http://tvstarlife.com:25461/maria01/maria01/28034
+#EXTINF:-1 tvg-id="" tvg-name="ING | BT SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/70441e8861054b9b3580307ef68f5e9f.png" group-title="TV | DEPORTES PREMIUM",ING | BT SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/28031
+#EXTINF:-1 tvg-id="" tvg-name="ING | BT SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/de0d230ec6ad72bf5cfe9e0f799fb074.png" group-title="TV | DEPORTES PREMIUM",ING | BT SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/28032
+#EXTINF:-1 tvg-id="" tvg-name="ING | BT SPORTS 3" tvg-logo="http://tvstarlife.com:25461/images/bb7aa97825675a252e3864bd1868627a.png" group-title="TV | DEPORTES PREMIUM",ING | BT SPORTS 3
+http://tvstarlife.com:25461/maria01/maria01/28033
+#EXTINF:-1 tvg-id="" tvg-name="P A R A G U A Y" tvg-logo="http://tvstarlife.com:25461/images/f02f1339554754ccbcfb6bea454631f0.jpg" group-title="TV | DEPORTES PREMIUM",P A R A G U A Y
+http://tvstarlife.com:25461/maria01/maria01/1343
+#EXTINF:-1 tvg-id="" tvg-name="PGY | TIGO SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/e077e50374d92135cfc4845e82792516.png" group-title="TV | DEPORTES PREMIUM",PGY | TIGO SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/1344
+#EXTINF:-1 tvg-id="" tvg-name="PGY | TIGO SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/e077e50374d92135cfc4845e82792516.png" group-title="TV | DEPORTES PREMIUM",PGY | TIGO SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/1345
+#EXTINF:-1 tvg-id="" tvg-name="P   E   R   U" tvg-logo="http://tvstarlife.com:25461/images/8b85c8613edd65cf360ac1aaf5add288.jpg" group-title="TV | DEPORTES PREMIUM",P   E   R   U
+http://tvstarlife.com:25461/maria01/maria01/1338
+#EXTINF:-1 tvg-id="" tvg-name="PRU | DIRECTV PERU" tvg-logo="http://tvstarlife.com:25461/images/88d78930248ba736eca0d12ca151a8a7.png" group-title="TV | DEPORTES PREMIUM",PRU | DIRECTV PERU
+http://tvstarlife.com:25461/maria01/maria01/1340
+#EXTINF:-1 tvg-id="" tvg-name="PRU | GOL PERU" tvg-logo="http://tvstarlife.com:25461/images/69518aa984efadd850a36b2c5fc0eeec.png" group-title="TV | DEPORTES PREMIUM",PRU | GOL PERU
+http://tvstarlife.com:25461/maria01/maria01/27443
+#EXTINF:-1 tvg-id="" tvg-name="PRU | Movistar Deportes" tvg-logo="http://tvstarlife.com:25461/images/c46dc330bf804aaca0ff4c8a95bf6abe.png" group-title="TV | DEPORTES PREMIUM",PRU | Movistar Deportes
+http://tvstarlife.com:25461/maria01/maria01/27453
+#EXTINF:-1 tvg-id="" tvg-name="GT ||| TIGO SPORTS" tvg-logo="http://tvstarlife.com:25461/images/bd8f8913913dea608e6257f05a517222.png" group-title="TV | DEPORTES PREMIUM",GT ||| TIGO SPORTS
+http://tvstarlife.com:25461/maria01/maria01/1228
+#EXTINF:-1 tvg-id="" tvg-name="SALV | TIGO SPORTS" tvg-logo="http://tvstarlife.com:25461/images/bd8f8913913dea608e6257f05a517222.png" group-title="TV | DEPORTES PREMIUM",SALV | TIGO SPORTS
+http://tvstarlife.com:25461/maria01/maria01/30049
+#EXTINF:-1 tvg-id="" tvg-name="U   S   A" tvg-logo="http://tvstarlife.com:25461/images/c00137b2f6a553b70267a20e0e8176cb.jpeg" group-title="TV | DEPORTES USA",U   S   A
+http://tvstarlife.com:25461/maria01/maria01/27007
+#EXTINF:-1 tvg-id="" tvg-name="USA | BEIN SPORTS" tvg-logo="http://tvstarlife.com:25461/images/ad9cbe93f21d4f14ecc363604c96dcc6.png" group-title="TV | DEPORTES USA",USA | BEIN SPORTS
+http://tvstarlife.com:25461/maria01/maria01/27032
+#EXTINF:-1 tvg-id="" tvg-name="USA | Eleven" tvg-logo="http://tvstarlife.com:25461/images/59789b7f75d5a50ca6d5c3ab9948b749.png" group-title="TV | DEPORTES USA",USA | Eleven
+http://tvstarlife.com:25461/maria01/maria01/27422
+#EXTINF:-1 tvg-id="" tvg-name="USA ||| ESPN" tvg-logo="http://tvstarlife.com:25461/images/e58bc278b1be57693e9a35fe5a6739e8.png" group-title="TV | DEPORTES USA",USA ||| ESPN
+http://tvstarlife.com:25461/maria01/maria01/27423
+#EXTINF:-1 tvg-id="" tvg-name="USA ||| ESPN 2" tvg-logo="http://tvstarlife.com:25461/images/79da1017bf9d8fd8d57c4393c103f3d0.png" group-title="TV | DEPORTES USA",USA ||| ESPN 2
+http://tvstarlife.com:25461/maria01/maria01/27424
+#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN U" tvg-logo="http://tvstarlife.com:25461/images/37fb0482dbc64d0b74a4bebb51e52be9.png" group-title="TV | DEPORTES USA",USA | ESPN U
+http://tvstarlife.com:25461/maria01/maria01/27425
+#EXTINF:-1 tvg-id="" tvg-name="USA ||| Fight Network" tvg-logo="http://tvstarlife.com:25461/images/649ab7fc72e3ab8107b2790437ed1123.png" group-title="TV | DEPORTES USA",USA ||| Fight Network
+http://tvstarlife.com:25461/maria01/maria01/27426
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Soccer Plus" tvg-logo="http://tvstarlife.com:25461/images/2f4f3122cf804559919f40d9bd0f8219.png" group-title="TV | DEPORTES USA",USA | Fox Soccer Plus
+http://tvstarlife.com:25461/maria01/maria01/27430
+#EXTINF:-1 tvg-id="" tvg-name="USA | FS1" tvg-logo="http://tvstarlife.com:25461/images/a9e847efeb50c8cc9f788b45537a1a45.png" group-title="TV | DEPORTES USA",USA | FS1
+http://tvstarlife.com:25461/maria01/maria01/27440
+#EXTINF:-1 tvg-id="" tvg-name="USA | FS2" tvg-logo="http://tvstarlife.com:25461/images/057b8475224f24705ed41febfba14f4d.png" group-title="TV | DEPORTES USA",USA | FS2
+http://tvstarlife.com:25461/maria01/maria01/27441
+#EXTINF:-1 tvg-id="" tvg-name="USA | Golf Channel" tvg-logo="http://tvstarlife.com:25461/images/6aa05fbc2a52bb3d01576c9c9638fddc.png" group-title="TV | DEPORTES USA",USA | Golf Channel
+http://tvstarlife.com:25461/maria01/maria01/27442
+#EXTINF:-1 tvg-id="" tvg-name="USA | GolTV" tvg-logo="http://tvstarlife.com:25461/images/3dfae62f52e3d5df95f02b7200dd1871.png" group-title="TV | DEPORTES USA",USA | GolTV
+http://tvstarlife.com:25461/maria01/maria01/1339
+#EXTINF:-1 tvg-id="" tvg-name="USA | Tennis Channel" tvg-logo="http://tvstarlife.com:25461/images/a6cd0f8b468eff8767299d11a1216add.png" group-title="TV | DEPORTES USA",USA | Tennis Channel
+http://tvstarlife.com:25461/maria01/maria01/27470
+#EXTINF:-1 tvg-id="" tvg-name="USA ||| TSN 2" tvg-logo="http://tvstarlife.com:25461/images/bce9e510296e72e557ed656a6781a8ad.png" group-title="TV | DEPORTES USA",USA ||| TSN 2
+http://tvstarlife.com:25461/maria01/maria01/27472
+#EXTINF:-1 tvg-id="" tvg-name="USA | TSN 4" tvg-logo="http://tvstarlife.com:25461/images/d6e0dfd030c2615c97f7bb606b6899ab.png" group-title="TV | DEPORTES USA",USA | TSN 4
+http://tvstarlife.com:25461/maria01/maria01/27474
+#EXTINF:-1 tvg-id="" tvg-name="USA | TSN 5" tvg-logo="http://tvstarlife.com:25461/images/0707725f1e2fae3e8cfe6f8d1254fbc9.png" group-title="TV | DEPORTES USA",USA | TSN 5
+http://tvstarlife.com:25461/maria01/maria01/27475
+#EXTINF:-1 tvg-id="" tvg-name="USA | TYC Sports" tvg-logo="http://tvstarlife.com:25461/images/7fe712e7748c5879aa57e47ced703067.png" group-title="TV | DEPORTES USA",USA | TYC Sports
+http://tvstarlife.com:25461/maria01/maria01/27479
+#EXTINF:-1 tvg-id="" tvg-name="USA | Yes Network" tvg-logo="http://tvstarlife.com:25461/images/2184ccaa1c09ad637374f5412a519818.png" group-title="TV | DEPORTES USA",USA | Yes Network
+http://tvstarlife.com:25461/maria01/maria01/27482
+#EXTINF:-1 tvg-id="" tvg-name="DEP MX FHD| Afizzionados" tvg-logo="http://tvstarlife.com:25461/images/6fa6b4b45065c90c6b4b40e2f27344f0.png" group-title="TV | DEPORTES MX",DEP MX FHD| Afizzionados
+http://tvstarlife.com:25461/maria01/maria01/581
+#EXTINF:-1 tvg-id="" tvg-name="DEP MX FHD| ESPN 1" tvg-logo="http://tvstarlife.com:25461/images/85a90959d4278a12ba8799df905aeaf3.png" group-title="TV | DEPORTES MX",DEP MX FHD| ESPN 1
+http://tvstarlife.com:25461/maria01/maria01/582
+#EXTINF:-1 tvg-id="" tvg-name="DEP MX FHD | ESPN 2" tvg-logo="http://tvstarlife.com:25461/images/b1a09d2f3b01fe725a3d60169e214689.png" group-title="TV | DEPORTES MX",DEP MX FHD | ESPN 2
+http://tvstarlife.com:25461/maria01/maria01/583
+#EXTINF:-1 tvg-id="" tvg-name="DEP MX FHD| ESPN 3" tvg-logo="http://tvstarlife.com:25461/images/76a6c236bfa707a61989411a8e2e266f.png" group-title="TV | DEPORTES MX",DEP MX FHD| ESPN 3
+http://tvstarlife.com:25461/maria01/maria01/584
+#EXTINF:-1 tvg-id="" tvg-name="DEP MX FHD| FOX SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/1cb850cacdf383cde5d031b8bbccf22e.png" group-title="TV | DEPORTES MX",DEP MX FHD| FOX SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/585
+#EXTINF:-1 tvg-id="" tvg-name="DEP MX FHD| FOX SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/29bc4dace727451da7392f46b558262b.png" group-title="TV | DEPORTES MX",DEP MX FHD| FOX SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/586
+#EXTINF:-1 tvg-id="" tvg-name="DEP MX HD| FOX SPORTS 3" tvg-logo="http://tvstarlife.com:25461/images/72044909d58baf4821417a6d7a4a3f8e.png" group-title="TV | DEPORTES MX",DEP MX HD| FOX SPORTS 3
+http://tvstarlife.com:25461/maria01/maria01/587
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports Arizona" tvg-logo="http://tvstarlife.com:25461/images/05f8c73a3e1844bfa22012faa73bd87c.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports Arizona
+http://tvstarlife.com:25461/maria01/maria01/27407
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports Detroit" tvg-logo="http://tvstarlife.com:25461/images/f3e89dce71989ec7be312e80c3cd9e22.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports Detroit
+http://tvstarlife.com:25461/maria01/maria01/27399
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports Florida" tvg-logo="http://tvstarlife.com:25461/images/22fb2891c1050fe258f30b1ec3b5c44d.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports Florida
+http://tvstarlife.com:25461/maria01/maria01/27400
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports Great Lakes" tvg-logo="" group-title="TV | DEPORTES USA",DEP USA | Bally Sports Great Lakes
+http://tvstarlife.com:25461/maria01/maria01/27406
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports Indiana" tvg-logo="http://tvstarlife.com:25461/images/37fcc13436e04bd0506229c05dc40c6f.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports Indiana
+http://tvstarlife.com:25461/maria01/maria01/27412
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports Kansas City" tvg-logo="http://tvstarlife.com:25461/images/4f31318f86b68acfab89ed1b39ea92fd.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports Kansas City
+http://tvstarlife.com:25461/maria01/maria01/27403
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports MidWest" tvg-logo="http://tvstarlife.com:25461/images/de79670797a0ef1f2fb87a51a6951832.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports MidWest
+http://tvstarlife.com:25461/maria01/maria01/27411
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports New Orleans" tvg-logo="http://tvstarlife.com:25461/images/0be13dc5bf003bf09a9d57fc288dcd97.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports New Orleans
+http://tvstarlife.com:25461/maria01/maria01/27414
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports Northlus" tvg-logo="http://tvstarlife.com:25461/images/237c37224aa2ab8c40ca8b5e07126210.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports Northlus
+http://tvstarlife.com:25461/maria01/maria01/27415
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports OHIO" tvg-logo="http://tvstarlife.com:25461/images/5846706b88d207c3d5ff3fd0af6a4328.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports OHIO
+http://tvstarlife.com:25461/maria01/maria01/27408
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports Oklahoma" tvg-logo="http://tvstarlife.com:25461/images/3b43f5132ba725ae272b0285f75b9909.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports Oklahoma
+http://tvstarlife.com:25461/maria01/maria01/27413
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports SOUTH" tvg-logo="http://tvstarlife.com:25461/images/5617d3784919a69c99557a89efedf6a1.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports SOUTH
+http://tvstarlife.com:25461/maria01/maria01/27410
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports SOUTHEAST" tvg-logo="http://tvstarlife.com:25461/images/c45ce4ba6e6c374f9893616be0f09572.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports SOUTHEAST
+http://tvstarlife.com:25461/maria01/maria01/27409
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports SUN" tvg-logo="http://tvstarlife.com:25461/images/ca362a85fd8de7be4b7f2cdae5eb0f2b.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports SUN
+http://tvstarlife.com:25461/maria01/maria01/27404
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports WEST" tvg-logo="http://tvstarlife.com:25461/images/67f0b79c1103a1668857ba2e0c52e41b.png" group-title="TV | DEPORTES USA",DEP USA | Bally Sports WEST
+http://tvstarlife.com:25461/maria01/maria01/27405
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Bally Sports WISCONSIN" tvg-logo="" group-title="TV | DEPORTES USA",DEP USA | Bally Sports WISCONSIN
+http://tvstarlife.com:25461/maria01/maria01/27401
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | BTN" tvg-logo="http://tvstarlife.com:25461/images/a71c798511ffdd450bf8485a0fa0ceda.png" group-title="TV | DEPORTES USA",DEP USA | BTN
+http://tvstarlife.com:25461/maria01/maria01/27418
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | CBS Sports Network" tvg-logo="http://tvstarlife.com:25461/images/0646c7be531bc3ae52fcb1e24c962bea.png" group-title="TV | DEPORTES USA",DEP USA | CBS Sports Network
+http://tvstarlife.com:25461/maria01/maria01/27419
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Cowboy Cahnnel" tvg-logo="http://tvstarlife.com:25461/images/83c4e159a2a0348de28c8c7b0e2e664d.png" group-title="TV | DEPORTES USA",DEP USA | Cowboy Cahnnel
+http://tvstarlife.com:25461/maria01/maria01/27420
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | DogTv" tvg-logo="http://tvstarlife.com:25461/images/97737c45fdba77a3a2078532678a2eeb.png" group-title="TV | DEPORTES USA",DEP USA | DogTv
+http://tvstarlife.com:25461/maria01/maria01/27421
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Long Horn" tvg-logo="http://tvstarlife.com:25461/images/224fea9be99c7667f722187cf6b9f9cc.png" group-title="TV | DEPORTES USA",DEP USA | Long Horn
+http://tvstarlife.com:25461/maria01/maria01/27444
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Mavtv" tvg-logo="" group-title="TV | DEPORTES USA",DEP USA | Mavtv
+http://tvstarlife.com:25461/maria01/maria01/27445
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | MSG" tvg-logo="http://tvstarlife.com:25461/images/bd145241f0afe6a54623d12de04da6f9.png" group-title="TV | DEPORTES USA",DEP USA | MSG
+http://tvstarlife.com:25461/maria01/maria01/27446
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | NESNlus" tvg-logo="http://tvstarlife.com:25461/images/0e4da6505945c7b26afed9f3cf44a584.png" group-title="TV | DEPORTES USA",DEP USA | NESNlus
+http://tvstarlife.com:25461/maria01/maria01/27454
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Olympic Channel" tvg-logo="http://tvstarlife.com:25461/images/f05972f9b3a7bcace58048e7164942b3.png" group-title="TV | DEPORTES USA",DEP USA | Olympic Channel
+http://tvstarlife.com:25461/maria01/maria01/27455
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Outdoor" tvg-logo="http://tvstarlife.com:25461/images/4714bf9493949e2e455d916c1b2491ca.png" group-title="TV | DEPORTES USA",DEP USA | Outdoor
+http://tvstarlife.com:25461/maria01/maria01/27456
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | PAC 12 Bay Area" tvg-logo="http://tvstarlife.com:25461/images/f605b8933a0b929872d7bf5e984f229a.png" group-title="TV | DEPORTES USA",DEP USA | PAC 12 Bay Area
+http://tvstarlife.com:25461/maria01/maria01/26060
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | PAC 12 Mountain" tvg-logo="http://tvstarlife.com:25461/images/bdf0349834b1ef51f986e0331251075f.png" group-title="TV | DEPORTES USA",DEP USA | PAC 12 Mountain
+http://tvstarlife.com:25461/maria01/maria01/27459
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | PAC 12 Network" tvg-logo="http://tvstarlife.com:25461/images/c911aa98a5ee7499292a81b3d9933c10.png" group-title="TV | DEPORTES USA",DEP USA | PAC 12 Network
+http://tvstarlife.com:25461/maria01/maria01/27460
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | PAC 12 Oregon" tvg-logo="http://tvstarlife.com:25461/images/d07a967a005b5060a33646c47773976a.png" group-title="TV | DEPORTES USA",DEP USA | PAC 12 Oregon
+http://tvstarlife.com:25461/maria01/maria01/27461
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | PAC 12 Washington" tvg-logo="http://tvstarlife.com:25461/images/4f94e6907e05f5ac08267d70f78ae941.png" group-title="TV | DEPORTES USA",DEP USA | PAC 12 Washington
+http://tvstarlife.com:25461/maria01/maria01/27462
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | SNY" tvg-logo="http://tvstarlife.com:25461/images/2574fb06c05ca18cefd6f0c489813c0d.png" group-title="TV | DEPORTES USA",DEP USA | SNY
+http://tvstarlife.com:25461/maria01/maria01/27464
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | Sportsman Channel" tvg-logo="http://tvstarlife.com:25461/images/944d1b51c8dadc228a24076976e71fd1.png" group-title="TV | DEPORTES USA",DEP USA | Sportsman Channel
+http://tvstarlife.com:25461/maria01/maria01/27466
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | SportsNet 360" tvg-logo="http://tvstarlife.com:25461/images/86f6c4feba5b0983fdd56971413820bc.png" group-title="TV | DEPORTES USA",DEP USA | SportsNet 360
+http://tvstarlife.com:25461/maria01/maria01/26069
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | TSN 1" tvg-logo="http://tvstarlife.com:25461/images/2dc193e4a9a80ae55d4eabe3bc34cb03.png" group-title="TV | DEPORTES USA",DEP USA | TSN 1
+http://tvstarlife.com:25461/maria01/maria01/27471
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | TSN 3" tvg-logo="http://tvstarlife.com:25461/images/fa1b95e33490f308ab98ee17554f113c.png" group-title="TV | DEPORTES USA",DEP USA | TSN 3
+http://tvstarlife.com:25461/maria01/maria01/26075
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | TUDN USA HD" tvg-logo="http://tvstarlife.com:25461/images/080143e891cc260796d13a46f86a3e69.png" group-title="TV | DEPORTES USA",DEP USA | TUDN USA HD
+http://tvstarlife.com:25461/maria01/maria01/27476
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | TVG" tvg-logo="http://tvstarlife.com:25461/images/a99ebfc0f8eef200a8a5f7102bc9fe81.png" group-title="TV | DEPORTES USA",DEP USA | TVG
+http://tvstarlife.com:25461/maria01/maria01/27477
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | TVG2" tvg-logo="http://tvstarlife.com:25461/images/073103d1dfa42952ca3756f601e187e5.png" group-title="TV | DEPORTES USA",DEP USA | TVG2
+http://tvstarlife.com:25461/maria01/maria01/27478
+#EXTINF:-1 tvg-id="" tvg-name="DEP USA | World Fishing Network" tvg-logo="http://tvstarlife.com:25461/images/0ee7c729097d5bfde5477aa41bd06d24.png" group-title="TV | DEPORTES USA",DEP USA | World Fishing Network
+http://tvstarlife.com:25461/maria01/maria01/27481
+#EXTINF:-1 tvg-id="" tvg-name="DTV | SPORTS FIGHT" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",DTV | SPORTS FIGHT
+http://tvstarlife.com:25461/maria01/maria01/51800
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",AR | DTV SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/51796
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORTS 2" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",AR | DTV SPORTS 2
+http://tvstarlife.com:25461/maria01/maria01/51797
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORTS +" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",AR | DTV SPORTS +
+http://tvstarlife.com:25461/maria01/maria01/51798
+#EXTINF:-1 tvg-id="" tvg-name="CH | DTV SPORTS 1" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",CH | DTV SPORTS 1
+http://tvstarlife.com:25461/maria01/maria01/51801
+#EXTINF:-1 tvg-id="" tvg-name="CH | DTV SPORTS +" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",CH | DTV SPORTS +
+http://tvstarlife.com:25461/maria01/maria01/51802
+#EXTINF:-1 tvg-id="" tvg-name="CH | DTV SPORTS + T2" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",CH | DTV SPORTS + T2
+http://tvstarlife.com:25461/maria01/maria01/51803
+#EXTINF:-1 tvg-id="" tvg-name="CO | DTV SPORTS" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",CO | DTV SPORTS
+http://tvstarlife.com:25461/maria01/maria01/51804
+#EXTINF:-1 tvg-id="" tvg-name="CO | DTV SPORTS +" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",CO | DTV SPORTS +
+http://tvstarlife.com:25461/maria01/maria01/51805
+#EXTINF:-1 tvg-id="" tvg-name="PE | DTV SPORTS" tvg-logo="http://tvstarlife.com:25461/images/8277e0910d750195b448797616e091ad.png" group-title="⚽ PACK DTV ⚽",PE | DTV SPORTS
+http://tvstarlife.com:25461/maria01/maria01/51806
+#EXTINF:-1 tvg-id="" tvg-name="+PREM ||| DAZN F1" tvg-logo="http://tvstarlife.com:25461/images/fe115cb2ba6008fe1c3380a3883c2dec.png" group-title="EVE | EXCLUSIVOS",+PREM ||| DAZN F1
+http://tvstarlife.com:25461/maria01/maria01/615
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | MLB Network" tvg-logo="http://tvstarlife.com:25461/images/aaf2f89992379705dac844c0a2a1d45f.png" group-title="EVE | EXCLUSIVOS",+PREM | MLB Network
+http://tvstarlife.com:25461/maria01/maria01/10494
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | NBA TV" tvg-logo="http://tvstarlife.com:25461/images/4443aee183b279f76a95c13c7f5bca0d.png" group-title="EVE | EXCLUSIVOS",+PREM | NBA TV
+http://tvstarlife.com:25461/maria01/maria01/26033
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | NFL Network" tvg-logo="http://tvstarlife.com:25461/images/ed23e9d533a3992b2bfeef6f8601a945.png" group-title="EVE | EXCLUSIVOS",+PREM | NFL Network
+http://tvstarlife.com:25461/maria01/maria01/26009
+#EXTINF:-1 tvg-id="" tvg-name="+PREM ||| NFL Red Zone" tvg-logo="http://tvstarlife.com:25461/images/8eb6d8747175919f27472673a32b3eca.png" group-title="EVE | EXCLUSIVOS",+PREM ||| NFL Red Zone
+http://tvstarlife.com:25461/maria01/maria01/26008
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | NHL NETWORK" tvg-logo="http://tvstarlife.com:25461/images/b555773768bc1a672947d7f41f9c247f.png" group-title="EVE | EXCLUSIVOS",+PREM | NHL NETWORK
+http://tvstarlife.com:25461/maria01/maria01/27044
+#EXTINF:-1 tvg-id="" tvg-name="+PREM ||| Red Bull Tv" tvg-logo="http://tvstarlife.com:25461/images/3d8abfbb5128006d4295b1ab5fc70bad.png" group-title="EVE | EXCLUSIVOS",+PREM ||| Red Bull Tv
+http://tvstarlife.com:25461/maria01/maria01/27463
+#EXTINF:-1 tvg-id="" tvg-name="+PREM ||| SKY LIGA ALEMANA" tvg-logo="http://tvstarlife.com:25461/images/1548af1c94ad45584324df8f08baf227.png" group-title="EVE | EXCLUSIVOS",+PREM ||| SKY LIGA ALEMANA
+http://tvstarlife.com:25461/maria01/maria01/30025
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | SKY LIGA ESPAÑOLA" tvg-logo="http://tvstarlife.com:25461/images/1548af1c94ad45584324df8f08baf227.png" group-title="EVE | EXCLUSIVOS",+PREM | SKY LIGA ESPAÑOLA
+http://tvstarlife.com:25461/maria01/maria01/26199
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | SKY LIGA INGLESA" tvg-logo="http://tvstarlife.com:25461/images/1548af1c94ad45584324df8f08baf227.png" group-title="EVE | EXCLUSIVOS",+PREM | SKY LIGA INGLESA
+http://tvstarlife.com:25461/maria01/maria01/30024
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | STAR+ (Eventos)" tvg-logo="http://tvstarlife.com:25461/images/627fcdb6cc9a5e16d657ca6cdef0a6bb.png" group-title="EVE | EXCLUSIVOS",+PREM | STAR+ (Eventos)
+http://tvstarlife.com:25461/maria01/maria01/33471
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | UFC Figtass" tvg-logo="http://tvstarlife.com:25461/images/9fbcd7dce5e3f334ca61dae6ad57415a.png" group-title="EVE | EXCLUSIVOS",+PREM | UFC Figtass
+http://tvstarlife.com:25461/maria01/maria01/27439
+#EXTINF:-1 tvg-id="" tvg-name="+PREM | WWE Network" tvg-logo="http://tvstarlife.com:25461/images/f1290186a5d0b1ceab27f4e77c0c5d68.png" group-title="EVE | EXCLUSIVOS",+PREM | WWE Network
+http://tvstarlife.com:25461/maria01/maria01/27480
+#EXTINF:-1 tvg-id="" tvg-name="FHD | SONY CHANNEL" tvg-logo="http://tvstarlife.com:25461/images/a5d10a38f7a30121fee6484427cfaf47.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | SONY CHANNEL
+http://tvstarlife.com:25461/maria01/maria01/9
+#EXTINF:-1 tvg-id="" tvg-name="FHD | A&E" tvg-logo="http://tvstarlife.com:25461/images/9d3ab221be5999e88eef9f1265103421.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | A&E
+http://tvstarlife.com:25461/maria01/maria01/3
+#EXTINF:-1 tvg-id="" tvg-name="FHD | AMC" tvg-logo="http://tvstarlife.com:25461/images/334b6ae982cb9f6d75b32a22f843072d.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | AMC
+http://tvstarlife.com:25461/maria01/maria01/4
+#EXTINF:-1 tvg-id="" tvg-name="FHD | AXN" tvg-logo="http://tvstarlife.com:25461/images/c02d25ca923b1e2a3ebe64c1ec2f8587.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | AXN
+http://tvstarlife.com:25461/maria01/maria01/94
+#EXTINF:-1 tvg-id="" tvg-name="FHD | CINE LATINO" tvg-logo="http://tvstarlife.com:25461/images/32e4e51d69a0a2478c95f59f159bddd8.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | CINE LATINO
+http://tvstarlife.com:25461/maria01/maria01/31
+#EXTINF:-1 tvg-id="" tvg-name="FHD | CINECANAL" tvg-logo="http://tvstarlife.com:25461/images/f204c2bb90cdea63c54c2902bb91b1d3.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | CINECANAL
+http://tvstarlife.com:25461/maria01/maria01/6
+#EXTINF:-1 tvg-id="" tvg-name="FHD | CINEMAX" tvg-logo="http://tvstarlife.com:25461/images/1584b89689483150a227922158703af7.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | CINEMAX
+http://tvstarlife.com:25461/maria01/maria01/8
+#EXTINF:-1 tvg-id="" tvg-name="FHD | WARNER" tvg-logo="http://tvstarlife.com:25461/images/040808be4944d1112e615dfa654a9df0.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | WARNER
+http://tvstarlife.com:25461/maria01/maria01/25
+#EXTINF:-1 tvg-id="" tvg-name="FHD || WARNER" tvg-logo="http://tvstarlife.com:25461/images/040808be4944d1112e615dfa654a9df0.png" group-title=" TV | CINE & SERIES ( FHD )",FHD || WARNER
+http://tvstarlife.com:25461/maria01/maria01/138
+#EXTINF:-1 tvg-id="" tvg-name="FHD | AZ CINEMA" tvg-logo="http://tvstarlife.com:25461/images/ea0081eda1caf99e6427a1301bae1712.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | AZ CINEMA
+http://tvstarlife.com:25461/maria01/maria01/32
+#EXTINF:-1 tvg-id="" tvg-name="FHD | DE PELICULA" tvg-logo="http://tvstarlife.com:25461/images/8d815c5d0bab8d11c0c371de15cb6311.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | DE PELICULA
+http://tvstarlife.com:25461/maria01/maria01/33
+#EXTINF:-1 tvg-id="" tvg-name="FHD | DE PELICULA CLASICO" tvg-logo="http://tvstarlife.com:25461/images/ce90cf4c3812f4d12b50b0082cd51eaf.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | DE PELICULA CLASICO
+http://tvstarlife.com:25461/maria01/maria01/33472
+#EXTINF:-1 tvg-id="" tvg-name="FHD | De Pelicula Plus" tvg-logo="http://tvstarlife.com:25461/images/07dd8750dce6ae4f3477c59596f3d7fd.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | De Pelicula Plus
+http://tvstarlife.com:25461/maria01/maria01/34
+#EXTINF:-1 tvg-id="" tvg-name="FHD | FX" tvg-logo="http://tvstarlife.com:25461/images/9f8532ce2e8a8cbf4ea3dc3e9011b6e6.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | FX
+http://tvstarlife.com:25461/maria01/maria01/10
+#EXTINF:-1 tvg-id="" tvg-name="FHD | FXM" tvg-logo="http://tvstarlife.com:25461/images/2b8a9f8fb3e3943b3ccb4b30f2250191.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | FXM
+http://tvstarlife.com:25461/maria01/maria01/11
+#EXTINF:-1 tvg-id="" tvg-name="FHD | GOLDEN" tvg-logo="http://tvstarlife.com:25461/images/0636ea724839cfcd2b58b9df246aa0ef.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | GOLDEN
+http://tvstarlife.com:25461/maria01/maria01/26
+#EXTINF:-1 tvg-id="" tvg-name="FHD | GOLDEN EDGE" tvg-logo="http://tvstarlife.com:25461/images/3bc1db6d58f324d86a6d846893f959b2.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | GOLDEN EDGE
+http://tvstarlife.com:25461/maria01/maria01/27
+#EXTINF:-1 tvg-id="" tvg-name="FHD | GOLDEN PLUS" tvg-logo="http://tvstarlife.com:25461/images/574dc37a72e16a83420f7868b5818c0f.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | GOLDEN PLUS
+http://tvstarlife.com:25461/maria01/maria01/28
+#EXTINF:-1 tvg-id="" tvg-name="FHD | GOLDEN PREMIER" tvg-logo="http://tvstarlife.com:25461/images/6a93c6f08be69d718557cf543f07ce52.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | GOLDEN PREMIER
+http://tvstarlife.com:25461/maria01/maria01/29
+#EXTINF:-1 tvg-id="" tvg-name="FHD | PARAMOUNT CHANNEL" tvg-logo="http://tvstarlife.com:25461/images/314abd0e8f15a54da7076f7efc50d3ad.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | PARAMOUNT CHANNEL
+http://tvstarlife.com:25461/maria01/maria01/24
+#EXTINF:-1 tvg-id="" tvg-name="FHD | SONY CINE" tvg-logo="http://tvstarlife.com:25461/images/c2349be573c952c1286d86ff025451e5.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | SONY CINE
+http://tvstarlife.com:25461/maria01/maria01/27438
+#EXTINF:-1 tvg-id="" tvg-name="FHD | SPACE" tvg-logo="http://tvstarlife.com:25461/images/2f5c82f22744ee8ca281033971d000c6.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | SPACE
+http://tvstarlife.com:25461/maria01/maria01/12
+#EXTINF:-1 tvg-id="" tvg-name="FHD | STAR CHANNEL" tvg-logo="http://tvstarlife.com:25461/images/ab6216e356ebdca071c4174697187ef1.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | STAR CHANNEL
+http://tvstarlife.com:25461/maria01/maria01/36
+#EXTINF:-1 tvg-id="" tvg-name="FHD ||| STARZ EN ESPAÑOL" tvg-logo="http://tvstarlife.com:25461/images/bc486719c238c21c888b27c6d4a631c8.png" group-title=" TV | CINE & SERIES ( FHD )",FHD ||| STARZ EN ESPAÑOL
+http://tvstarlife.com:25461/maria01/maria01/30
+#EXTINF:-1 tvg-id="" tvg-name="FHD | STUDIO UNIVERSAL" tvg-logo="http://tvstarlife.com:25461/images/3771d6992c68249491f9e4a29d128746.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | STUDIO UNIVERSAL
+http://tvstarlife.com:25461/maria01/maria01/22
+#EXTINF:-1 tvg-id="" tvg-name="FHD | SYFY" tvg-logo="http://tvstarlife.com:25461/images/4d1063b9bb0201dcdb6b5aca17addf30.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | SYFY
+http://tvstarlife.com:25461/maria01/maria01/15
+#EXTINF:-1 tvg-id="" tvg-name="FHD | TCM" tvg-logo="http://tvstarlife.com:25461/images/1ebdf20c4bd5f8c89634b3757023824b.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | TCM
+http://tvstarlife.com:25461/maria01/maria01/16
+#EXTINF:-1 tvg-id="" tvg-name="FHD | TNT" tvg-logo="http://tvstarlife.com:25461/images/c504d5313df6f96d72b21e5fd7af0e7c.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | TNT
+http://tvstarlife.com:25461/maria01/maria01/17
+#EXTINF:-1 tvg-id="" tvg-name="FHD | TNT SERIES" tvg-logo="http://tvstarlife.com:25461/images/b5ee659b55320a9258d604a346d9e30b.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | TNT SERIES
+http://tvstarlife.com:25461/maria01/maria01/20
+#EXTINF:-1 tvg-id="" tvg-name="FHD | UNIVERSAL CHANNEL" tvg-logo="http://tvstarlife.com:25461/images/ad53569d78be6d28f23efa8028a3f32b.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | UNIVERSAL CHANNEL
+http://tvstarlife.com:25461/maria01/maria01/21
+#EXTINF:-1 tvg-id="" tvg-name="FHD || UNIVERSAL CINEMA" tvg-logo="http://tvstarlife.com:25461/images/fa74cbc7ae46e0180e812e6b2f38918c.png" group-title=" TV | CINE & SERIES ( FHD )",FHD || UNIVERSAL CINEMA
+http://tvstarlife.com:25461/maria01/maria01/30030
+#EXTINF:-1 tvg-id="" tvg-name="FHD | UNIVERSAL CINEMA" tvg-logo="http://tvstarlife.com:25461/images/fa74cbc7ae46e0180e812e6b2f38918c.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | UNIVERSAL CINEMA
+http://tvstarlife.com:25461/maria01/maria01/142
+#EXTINF:-1 tvg-id="" tvg-name="FHD | UNIVERSAL COMEDY" tvg-logo="http://tvstarlife.com:25461/images/f3a48eb8fb41c50359a515eaaf3cc7a6.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | UNIVERSAL COMEDY
+http://tvstarlife.com:25461/maria01/maria01/30034
+#EXTINF:-1 tvg-id="" tvg-name="FHD | UNIVERSAL CRIMEN" tvg-logo="http://tvstarlife.com:25461/images/62e083909134852a31d4ed52ebef2211.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | UNIVERSAL CRIMEN
+http://tvstarlife.com:25461/maria01/maria01/30027
+#EXTINF:-1 tvg-id="" tvg-name="FHD | UNIVERSAL PREMIERE" tvg-logo="http://tvstarlife.com:25461/images/1395ecba79747d88becaef9e2eef781d.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | UNIVERSAL PREMIERE
+http://tvstarlife.com:25461/maria01/maria01/30032
+#EXTINF:-1 tvg-id="" tvg-name="FHD | UNIVERSAL REALITY" tvg-logo="http://tvstarlife.com:25461/images/0cf92449f196de8bf8e04bed65f1da3b.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | UNIVERSAL REALITY
+http://tvstarlife.com:25461/maria01/maria01/30029
+#EXTINF:-1 tvg-id="" tvg-name="FHD | HBO" tvg-logo="http://tvstarlife.com:25461/images/97da073f18af6140159f8b227c6a6434.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | HBO
+http://tvstarlife.com:25461/maria01/maria01/50
+#EXTINF:-1 tvg-id="" tvg-name="FHD | HBO 2" tvg-logo="http://tvstarlife.com:25461/images/9eea6fc6c3ebc37abbbef7d3186fd80b.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | HBO 2
+http://tvstarlife.com:25461/maria01/maria01/52
+#EXTINF:-1 tvg-id="" tvg-name="FHD | HBO FAMILY" tvg-logo="http://tvstarlife.com:25461/images/ef4a2c8c8ff423ec19468d67afcd3635.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | HBO FAMILY
+http://tvstarlife.com:25461/maria01/maria01/54
+#EXTINF:-1 tvg-id="" tvg-name="FHD | HBO MUNDI" tvg-logo="http://tvstarlife.com:25461/images/c1241ed24643425c53c36fd60fecf1bb.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | HBO MUNDI
+http://tvstarlife.com:25461/maria01/maria01/57
+#EXTINF:-1 tvg-id="" tvg-name="FHD || HBO PLUS" tvg-logo="http://tvstarlife.com:25461/images/04289a196b40bb3752d350c37f742d6a.png" group-title=" TV | CINE & SERIES ( FHD )",FHD || HBO PLUS
+http://tvstarlife.com:25461/maria01/maria01/56
+#EXTINF:-1 tvg-id="" tvg-name="FHD | HBO PLUS" tvg-logo="http://tvstarlife.com:25461/images/04289a196b40bb3752d350c37f742d6a.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | HBO PLUS
+http://tvstarlife.com:25461/maria01/maria01/55
+#EXTINF:-1 tvg-id="" tvg-name="FHD | HBO POP" tvg-logo="http://tvstarlife.com:25461/images/714dde2d5322d169a2954101ae8399bc.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | HBO POP
+http://tvstarlife.com:25461/maria01/maria01/59
+#EXTINF:-1 tvg-id="" tvg-name="FHD | HBO SIGNATURE" tvg-logo="http://tvstarlife.com:25461/images/7a61c2faf8e6877001a3b06231e57b81.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | HBO SIGNATURE
+http://tvstarlife.com:25461/maria01/maria01/60
+#EXTINF:-1 tvg-id="" tvg-name="FHD | HBO XTREME" tvg-logo="http://tvstarlife.com:25461/images/c5c07ceec72d940ad285ab4bb11444df.png" group-title=" TV | CINE & SERIES ( FHD )",FHD | HBO XTREME
+http://tvstarlife.com:25461/maria01/maria01/63
+#EXTINF:-1 tvg-id="" tvg-name="SD | MULTIPREMIER" tvg-logo="http://tvstarlife.com:25461/images/b90216ae891d1eb64d138c73b2d50ebc.png" group-title="TV | CINE & SERIES ( SD )",SD | MULTIPREMIER
+http://tvstarlife.com:25461/maria01/maria01/117758
+#EXTINF:-1 tvg-id="" tvg-name="HD | A&E" tvg-logo="http://tvstarlife.com:25461/images/1c961811ad68433fe9403cff3b2da4e5.png" group-title=" TV | CINE & SERIES ( HD )",HD | A&E
+http://tvstarlife.com:25461/maria01/maria01/92
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINELATINO" tvg-logo="http://tvstarlife.com:25461/images/d253d5fcf6425bee5bdbc2c2d83f9b04.png" group-title=" TV | CINE & SERIES ( HD )",CINE HD | CINELATINO
+http://tvstarlife.com:25461/maria01/maria01/114
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD ||| FXM" tvg-logo="http://tvstarlife.com:25461/images/5f2a35a3f04e349ece8e017584c227be.png" group-title=" TV | CINE & SERIES ( HD )",CINE HD ||| FXM
+http://tvstarlife.com:25461/maria01/maria01/98
+#EXTINF:-1 tvg-id="" tvg-name="HD | HBO" tvg-logo="http://tvstarlife.com:25461/images/91f0581c21b08992162709c90ad3cea8.png" group-title=" TV | CINE & SERIES ( HD )",HD | HBO
+http://tvstarlife.com:25461/maria01/maria01/126
+#EXTINF:-1 tvg-id="" tvg-name="HD | SPACE" tvg-logo="http://tvstarlife.com:25461/images/0cef6205e5f94f767fe6308c2ae81628.png" group-title=" TV | CINE & SERIES ( HD )",HD | SPACE
+http://tvstarlife.com:25461/maria01/maria01/99
+#EXTINF:-1 tvg-id="" tvg-name="HD | TCM" tvg-logo="http://tvstarlife.com:25461/images/3d46804c65402ec6b4ea8c50758018fc.png" group-title=" TV | CINE & SERIES ( HD )",HD | TCM
+http://tvstarlife.com:25461/maria01/maria01/102
+#EXTINF:-1 tvg-id="" tvg-name="HD | TNT" tvg-logo="http://tvstarlife.com:25461/images/a09aff4221d54c43c484c90a3b0c0068.png" group-title=" TV | CINE & SERIES ( HD )",HD | TNT
+http://tvstarlife.com:25461/maria01/maria01/103
+#EXTINF:-1 tvg-id="" tvg-name="HD | TNT SERIES" tvg-logo="http://tvstarlife.com:25461/images/6d6632a8b7978d1c8878aa8bbbd10d4a.png" group-title=" TV | CINE & SERIES ( HD )",HD | TNT SERIES
+http://tvstarlife.com:25461/maria01/maria01/104
+#EXTINF:-1 tvg-id="" tvg-name="SD | CINE LATINO" tvg-logo="http://tvstarlife.com:25461/images/32e4e51d69a0a2478c95f59f159bddd8.png" group-title="TV | CINE & SERIES ( SD )",SD | CINE LATINO
+http://tvstarlife.com:25461/maria01/maria01/74
+#EXTINF:-1 tvg-id="" tvg-name="SD | CINEMA DINAMITA" tvg-logo="http://tvstarlife.com:25461/images/8b88dbdc4cf37960ea66cc11fdbca47f.jpg" group-title="TV | CINE & SERIES ( SD )",SD | CINEMA DINAMITA
+http://tvstarlife.com:25461/maria01/maria01/73
+#EXTINF:-1 tvg-id="" tvg-name="SD | DE PELICULA CLASICO" tvg-logo="http://tvstarlife.com:25461/images/ce90cf4c3812f4d12b50b0082cd51eaf.png" group-title="TV | CINE & SERIES ( SD )",SD | DE PELICULA CLASICO
+http://tvstarlife.com:25461/maria01/maria01/76
+#EXTINF:-1 tvg-id="" tvg-name="SD | DE PELICULA PLUS" tvg-logo="http://tvstarlife.com:25461/images/07dd8750dce6ae4f3477c59596f3d7fd.png" group-title="TV | CINE & SERIES ( SD )",SD | DE PELICULA PLUS
+http://tvstarlife.com:25461/maria01/maria01/77
+#EXTINF:-1 tvg-id="" tvg-name="SD | GOLDEN EDGE" tvg-logo="http://tvstarlife.com:25461/images/3bc1db6d58f324d86a6d846893f959b2.png" group-title="TV | CINE & SERIES ( SD )",SD | GOLDEN EDGE
+http://tvstarlife.com:25461/maria01/maria01/25485
+#EXTINF:-1 tvg-id="" tvg-name="SD | HBO POP" tvg-logo="http://tvstarlife.com:25461/images/714dde2d5322d169a2954101ae8399bc.png" group-title="TV | CINE & SERIES ( SD )",SD | HBO POP
+http://tvstarlife.com:25461/maria01/maria01/88
+#EXTINF:-1 tvg-id="" tvg-name="SD | HBO XTREME" tvg-logo="http://tvstarlife.com:25461/images/c5c07ceec72d940ad285ab4bb11444df.png" group-title="TV | CINE & SERIES ( SD )",SD | HBO XTREME
+http://tvstarlife.com:25461/maria01/maria01/90
+#EXTINF:-1 tvg-id="" tvg-name="SD | STARZ SUSPENSE" tvg-logo="http://tvstarlife.com:25461/images/324c8d5f876d45cae6c3db4409cf1652.png" group-title="TV | CINE & SERIES ( SD )",SD | STARZ SUSPENSE
+http://tvstarlife.com:25461/maria01/maria01/1642
+#EXTINF:-1 tvg-id="" tvg-name="HD | AMC" tvg-logo="http://tvstarlife.com:25461/images/334b6ae982cb9f6d75b32a22f843072d.png" group-title=" TV | CINE & SERIES ( HD )",HD | AMC
+http://tvstarlife.com:25461/maria01/maria01/93
+#EXTINF:-1 tvg-id="" tvg-name="HD | AXN" tvg-logo="http://tvstarlife.com:25461/images/59da749494066673b13b030e6e1964af.png" group-title=" TV | CINE & SERIES ( HD )",HD | AXN
+http://tvstarlife.com:25461/maria01/maria01/27866
+#EXTINF:-1 tvg-id="" tvg-name="HD | CINECANAL" tvg-logo="http://tvstarlife.com:25461/images/402c922bc94cf2d73bc0f8d68966ef1a.png" group-title=" TV | CINE & SERIES ( HD )",HD | CINECANAL
+http://tvstarlife.com:25461/maria01/maria01/7
+#EXTINF:-1 tvg-id="" tvg-name="HD | CINEMA DINAMITA" tvg-logo="http://tvstarlife.com:25461/images/8b88dbdc4cf37960ea66cc11fdbca47f.jpg" group-title=" TV | CINE & SERIES ( HD )",HD | CINEMA DINAMITA
+http://tvstarlife.com:25461/maria01/maria01/113
+#EXTINF:-1 tvg-id="" tvg-name="HD | CINEMAX" tvg-logo="http://tvstarlife.com:25461/images/a15cbfc7c4af32c16b6fc62c76d134da.png" group-title=" TV | CINE & SERIES ( HD )",HD | CINEMAX
+http://tvstarlife.com:25461/maria01/maria01/96
+#EXTINF:-1 tvg-id="" tvg-name="HD | AZ CINEMA" tvg-logo="http://tvstarlife.com:25461/images/7a0fcc145d223c1b68554d05cad01c17.png" group-title=" TV | CINE & SERIES ( HD )",HD | AZ CINEMA
+http://tvstarlife.com:25461/maria01/maria01/115
+#EXTINF:-1 tvg-id="" tvg-name="HD | DE PELICULA" tvg-logo="http://tvstarlife.com:25461/images/2003e541784e6c223a178af0696254ba.png" group-title=" TV | CINE & SERIES ( HD )",HD | DE PELICULA
+http://tvstarlife.com:25461/maria01/maria01/116
+#EXTINF:-1 tvg-id="" tvg-name="HD | De Pelicula Clasico" tvg-logo="http://tvstarlife.com:25461/images/9fb3a06aabd3fbf2272deeb2b218e59c.png" group-title=" TV | CINE & SERIES ( HD )",HD | De Pelicula Clasico
+http://tvstarlife.com:25461/maria01/maria01/26049
+#EXTINF:-1 tvg-id="" tvg-name="HD || DE PELICULA PLUS" tvg-logo="http://tvstarlife.com:25461/images/f2db3b6883f0aa48d42db0dfe85b354d.png" group-title=" TV | CINE & SERIES ( HD )",HD || DE PELICULA PLUS
+http://tvstarlife.com:25461/maria01/maria01/117
+#EXTINF:-1 tvg-id="" tvg-name="HD | FX" tvg-logo="http://tvstarlife.com:25461/images/c3f9558d681bac963339b7c69894c4f7.jpg" group-title=" TV | CINE & SERIES ( HD )",HD | FX
+http://tvstarlife.com:25461/maria01/maria01/97
+#EXTINF:-1 tvg-id="" tvg-name="HD | GOLDEN" tvg-logo="http://tvstarlife.com:25461/images/f14bbd867909bb7dd0ac4573e8893913.png" group-title=" TV | CINE & SERIES ( HD )",HD | GOLDEN
+http://tvstarlife.com:25461/maria01/maria01/109
+#EXTINF:-1 tvg-id="" tvg-name="HD | GOLDEN EDGE" tvg-logo="http://tvstarlife.com:25461/images/e0bd51731fc8bce68517a74c329e93f4.png" group-title=" TV | CINE & SERIES ( HD )",HD | GOLDEN EDGE
+http://tvstarlife.com:25461/maria01/maria01/110
+#EXTINF:-1 tvg-id="" tvg-name="HD | GOLDEN PLUS" tvg-logo="http://tvstarlife.com:25461/images/f14bbd867909bb7dd0ac4573e8893913.png" group-title=" TV | CINE & SERIES ( HD )",HD | GOLDEN PLUS
+http://tvstarlife.com:25461/maria01/maria01/111
+#EXTINF:-1 tvg-id="" tvg-name="HD | GOLDEN PREMIER" tvg-logo="http://tvstarlife.com:25461/images/f14bbd867909bb7dd0ac4573e8893913.png" group-title=" TV | CINE & SERIES ( HD )",HD | GOLDEN PREMIER
+http://tvstarlife.com:25461/maria01/maria01/112
+#EXTINF:-1 tvg-id="" tvg-name="HD | GOLDEN PREMIER 2" tvg-logo="" group-title=" TV | CINE & SERIES ( HD )",HD | GOLDEN PREMIER 2
+http://tvstarlife.com:25461/maria01/maria01/26047
+#EXTINF:-1 tvg-id="" tvg-name="HD | PARAMOUNT CHANNEL" tvg-logo="http://tvstarlife.com:25461/images/0866d03368c9a1891cc7f62800a2c44d.png" group-title=" TV | CINE & SERIES ( HD )",HD | PARAMOUNT CHANNEL
+http://tvstarlife.com:25461/maria01/maria01/107
+#EXTINF:-1 tvg-id="" tvg-name="HD | SONY CHANEL" tvg-logo="http://tvstarlife.com:25461/images/2aeb434aacbe2a352b700376ae5dc9f9.png" group-title=" TV | CINE & SERIES ( HD )",HD | SONY CHANEL
+http://tvstarlife.com:25461/maria01/maria01/100
+#EXTINF:-1 tvg-id="" tvg-name="HD | STAR CHANNEL" tvg-logo="http://tvstarlife.com:25461/images/9671f8dd757ce697df626432e5f86d9d.png" group-title=" TV | CINE & SERIES ( HD )",HD | STAR CHANNEL
+http://tvstarlife.com:25461/maria01/maria01/35
+#EXTINF:-1 tvg-id="" tvg-name="HD | STUDIO UNIVERSAL" tvg-logo="http://tvstarlife.com:25461/images/4b764f15c56a9525fa0409a01dcb03b5.png" group-title=" TV | CINE & SERIES ( HD )",HD | STUDIO UNIVERSAL
+http://tvstarlife.com:25461/maria01/maria01/23
+#EXTINF:-1 tvg-id="" tvg-name="HD | SYFY" tvg-logo="http://tvstarlife.com:25461/images/3a60bd3d076dcf123836ed08694c4800.png" group-title=" TV | CINE & SERIES ( HD )",HD | SYFY
+http://tvstarlife.com:25461/maria01/maria01/101
+#EXTINF:-1 tvg-id="" tvg-name="HD | UNIVERSAL CHANNEL" tvg-logo="http://tvstarlife.com:25461/images/39bf2a99c4b2c254441f4a969580a77f.png" group-title=" TV | CINE & SERIES ( HD )",HD | UNIVERSAL CHANNEL
+http://tvstarlife.com:25461/maria01/maria01/105
+#EXTINF:-1 tvg-id="" tvg-name="HD | WARNER" tvg-logo="http://tvstarlife.com:25461/images/7e24ba66a736d5b13fd88641394be740.png" group-title=" TV | CINE & SERIES ( HD )",HD | WARNER
+http://tvstarlife.com:25461/maria01/maria01/108
+#EXTINF:-1 tvg-id="" tvg-name="HD | HBO 2" tvg-logo="http://tvstarlife.com:25461/images/01efb8d134da4071edd7552f4b04817b.png" group-title=" TV | CINE & SERIES ( HD )",HD | HBO 2
+http://tvstarlife.com:25461/maria01/maria01/127
+#EXTINF:-1 tvg-id="" tvg-name="HD | HBO FAMILY" tvg-logo="http://tvstarlife.com:25461/images/a07b6439696ae5747ce18e0b76198bf2.png" group-title=" TV | CINE & SERIES ( HD )",HD | HBO FAMILY
+http://tvstarlife.com:25461/maria01/maria01/128
+#EXTINF:-1 tvg-id="" tvg-name="HD | HBO MUNDI" tvg-logo="http://tvstarlife.com:25461/images/a15cbfc7c4af32c16b6fc62c76d134da.png" group-title=" TV | CINE & SERIES ( HD )",HD | HBO MUNDI
+http://tvstarlife.com:25461/maria01/maria01/130
+#EXTINF:-1 tvg-id="" tvg-name="HD || HBO PLUS" tvg-logo="http://tvstarlife.com:25461/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title=" TV | CINE & SERIES ( HD )",HD || HBO PLUS
+http://tvstarlife.com:25461/maria01/maria01/129
+#EXTINF:-1 tvg-id="" tvg-name="HD | HBO POP" tvg-logo="http://tvstarlife.com:25461/images/804908bb28c2ecbde0ea625369a3a7dc.png" group-title=" TV | CINE & SERIES ( HD )",HD | HBO POP
+http://tvstarlife.com:25461/maria01/maria01/131
+#EXTINF:-1 tvg-id="" tvg-name="HD | HBO SIGNATURE" tvg-logo="http://tvstarlife.com:25461/images/a1b78744a7165bf7144e36b9e3de7af7.png" group-title=" TV | CINE & SERIES ( HD )",HD | HBO SIGNATURE
+http://tvstarlife.com:25461/maria01/maria01/132
+#EXTINF:-1 tvg-id="" tvg-name="HD | HBO XTREME" tvg-logo="http://tvstarlife.com:25461/images/9ea14534c249fe19e2bec15c963b8412.png" group-title=" TV | CINE & SERIES ( HD )",HD | HBO XTREME
+http://tvstarlife.com:25461/maria01/maria01/133
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Animal Planet" tvg-logo="http://tvstarlife.com:25461/images/533ab17bea64bb7abe875f85090237fe.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Animal Planet
+http://tvstarlife.com:25461/maria01/maria01/135
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Discovery Channel" tvg-logo="http://tvstarlife.com:25461/images/027eee66b8b634ac7f692c8a01308b9c.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Discovery Channel
+http://tvstarlife.com:25461/maria01/maria01/137
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Discovery Familia" tvg-logo="http://tvstarlife.com:25461/images/8e00bd9d10723662b731895bb225b783.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Discovery Familia
+http://tvstarlife.com:25461/maria01/maria01/27289
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Discovery H&H" tvg-logo="http://tvstarlife.com:25461/images/a9a60839727eb7270366c827387097e3.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Discovery H&H
+http://tvstarlife.com:25461/maria01/maria01/144
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Discovery ID" tvg-logo="http://tvstarlife.com:25461/images/16e91e88c20f6890a14fddff3a2c4780.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Discovery ID
+http://tvstarlife.com:25461/maria01/maria01/146
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Discovery Science" tvg-logo="http://tvstarlife.com:25461/images/6881e3757b3e2921ee146cbe707d45d6.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Discovery Science
+http://tvstarlife.com:25461/maria01/maria01/151
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Discovery Theater" tvg-logo="http://tvstarlife.com:25461/images/dc28920c292db7e7529a9175e77fc2d2.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Discovery Theater
+http://tvstarlife.com:25461/maria01/maria01/140
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Discovery TLC" tvg-logo="http://tvstarlife.com:25461/images/ca478894e5278191506d70bea465ffe0.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Discovery TLC
+http://tvstarlife.com:25461/maria01/maria01/27290
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Discovery Turbo" tvg-logo="http://tvstarlife.com:25461/images/0f68f8aa41b0651a29bf4e64e32c8880.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Discovery Turbo
+http://tvstarlife.com:25461/maria01/maria01/148
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Discovery World" tvg-logo="http://tvstarlife.com:25461/images/deb5451670ce3cbccd5aea841511e68a.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Discovery World
+http://tvstarlife.com:25461/maria01/maria01/2
+#EXTINF:-1 tvg-id="" tvg-name="FHD | DW" tvg-logo="http://tvstarlife.com:25461/images/1f2121f36f817bd18540e5fa7de06f59.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | DW
+http://tvstarlife.com:25461/maria01/maria01/152
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Gourmet" tvg-logo="http://tvstarlife.com:25461/images/01d5025d4b2efb5843ed430f331b87fc.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Gourmet
+http://tvstarlife.com:25461/maria01/maria01/159
+#EXTINF:-1 tvg-id="" tvg-name="FHD | H2" tvg-logo="http://tvstarlife.com:25461/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | H2
+http://tvstarlife.com:25461/maria01/maria01/158
+#EXTINF:-1 tvg-id="" tvg-name="FHD | HGTV" tvg-logo="http://tvstarlife.com:25461/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | HGTV
+http://tvstarlife.com:25461/maria01/maria01/161
+#EXTINF:-1 tvg-id="" tvg-name="FHD | History Channel" tvg-logo="http://tvstarlife.com:25461/images/0e11655aad4e3a0392b54ccf27e1ae96.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | History Channel
+http://tvstarlife.com:25461/maria01/maria01/156
+#EXTINF:-1 tvg-id="" tvg-name="FHD | History En Español" tvg-logo="http://tvstarlife.com:25461/images/9650d18af61e4f2fd4cf67de3215e04f.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | History En Español
+http://tvstarlife.com:25461/maria01/maria01/157
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Nat Geo" tvg-logo="http://tvstarlife.com:25461/images/f99f63127e9991d4d248b73daac1a882.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Nat Geo
+http://tvstarlife.com:25461/maria01/maria01/154
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Nat Geo Mundo" tvg-logo="http://tvstarlife.com:25461/images/35addec5bc1a5fa42fd9e5be00439bfe.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Nat Geo Mundo
+http://tvstarlife.com:25461/maria01/maria01/155
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Nat Geo Wild" tvg-logo="http://tvstarlife.com:25461/images/35addec5bc1a5fa42fd9e5be00439bfe.png" group-title="TV | MUNDO & CULTURA ( FHD )",FHD | Nat Geo Wild
+http://tvstarlife.com:25461/maria01/maria01/218
+#EXTINF:-1 tvg-id="" tvg-name="HD | Animal Planet" tvg-logo="http://tvstarlife.com:25461/images/9fc93d2502fd2404cd80b60ee47e045c.jpg" group-title="TV | MUNDO & CULTURA ( HD )",HD | Animal Planet
+http://tvstarlife.com:25461/maria01/maria01/164
+#EXTINF:-1 tvg-id="" tvg-name="HD | Discovery Channel" tvg-logo="http://tvstarlife.com:25461/images/59836387eaf383dc566ff2e188fcc60b.jpg" group-title="TV | MUNDO & CULTURA ( HD )",HD | Discovery Channel
+http://tvstarlife.com:25461/maria01/maria01/165
+#EXTINF:-1 tvg-id="" tvg-name="HD | Discovery H&H" tvg-logo="http://tvstarlife.com:25461/images/48f33ceba64582f4cd17028fb8ee907c.png" group-title="TV | MUNDO & CULTURA ( HD )",HD | Discovery H&H
+http://tvstarlife.com:25461/maria01/maria01/168
+#EXTINF:-1 tvg-id="" tvg-name="HD | Discovery ID" tvg-logo="http://tvstarlife.com:25461/images/386db1cd32bc4ddb7d9b3d4ed9b148ef.png" group-title="TV | MUNDO & CULTURA ( HD )",HD | Discovery ID
+http://tvstarlife.com:25461/maria01/maria01/169
+#EXTINF:-1 tvg-id="" tvg-name="HD | Discovery Science" tvg-logo="http://tvstarlife.com:25461/images/0f83692a7b1461c2bcd106840b82c100.png" group-title="TV | MUNDO & CULTURA ( HD )",HD | Discovery Science
+http://tvstarlife.com:25461/maria01/maria01/171
+#EXTINF:-1 tvg-id="" tvg-name="HD | Discovery Turbo" tvg-logo="http://tvstarlife.com:25461/images/b96a7c3487f6659b9e1bd16921372c48.png" group-title="TV | MUNDO & CULTURA ( HD )",HD | Discovery Turbo
+http://tvstarlife.com:25461/maria01/maria01/170
+#EXTINF:-1 tvg-id="" tvg-name="HD | Discovery World" tvg-logo="http://tvstarlife.com:25461/images/cabdb9991ee652b3cc71d3206a1c778b.png" group-title="TV | MUNDO & CULTURA ( HD )",HD | Discovery World
+http://tvstarlife.com:25461/maria01/maria01/179
+#EXTINF:-1 tvg-id="" tvg-name="HD | Gourmet" tvg-logo="http://tvstarlife.com:25461/images/6a800efc9e31c91e9a8c98189febf9b4.png" group-title="TV | MUNDO & CULTURA ( HD )",HD | Gourmet
+http://tvstarlife.com:25461/maria01/maria01/173
+#EXTINF:-1 tvg-id="" tvg-name="HD | History Channel" tvg-logo="http://tvstarlife.com:25461/images/71abe104b4cd84f289586ff4bfc1fd92.png" group-title="TV | MUNDO & CULTURA ( HD )",HD | History Channel
+http://tvstarlife.com:25461/maria01/maria01/172
+#EXTINF:-1 tvg-id="" tvg-name="FHD | BABY TV" tvg-logo="http://tvstarlife.com:25461/images/337ed01ef1c4a03998626e2329513a9c.png" group-title="TV | INFANTILES ( FHD )",FHD | BABY TV
+http://tvstarlife.com:25461/maria01/maria01/188
+#EXTINF:-1 tvg-id="" tvg-name="FHD | BOOMERANG" tvg-logo="http://tvstarlife.com:25461/images/89811a832e9d53669788f2444c1841e0.png" group-title="TV | INFANTILES ( FHD )",FHD | BOOMERANG
+http://tvstarlife.com:25461/maria01/maria01/189
+#EXTINF:-1 tvg-id="" tvg-name="FHD | CARTOON NETWORK" tvg-logo="http://tvstarlife.com:25461/images/35b841aa96ed54ba0515200644b488f6.png" group-title="TV | INFANTILES ( FHD )",FHD | CARTOON NETWORK
+http://tvstarlife.com:25461/maria01/maria01/190
+#EXTINF:-1 tvg-id="" tvg-name="FHD | DISCOVERY KIDS" tvg-logo="http://tvstarlife.com:25461/images/e8b794dfa8082694fccce018bc494c75.png" group-title="TV | INFANTILES ( FHD )",FHD | DISCOVERY KIDS
+http://tvstarlife.com:25461/maria01/maria01/191
+#EXTINF:-1 tvg-id="" tvg-name="FHD | DISNEY CHANNEL" tvg-logo="http://tvstarlife.com:25461/images/0bb94b5eb2ebb6afeb4737dacb592a01.png" group-title="TV | INFANTILES ( FHD )",FHD | DISNEY CHANNEL
+http://tvstarlife.com:25461/maria01/maria01/192
+#EXTINF:-1 tvg-id="" tvg-name="FHD | PRIME KIDS" tvg-logo="http://tvstarlife.com:25461/images/e041266401c41e9a38c43160bdfe77aa.png" group-title="TV | INFANTILES ( FHD )",FHD | PRIME KIDS
+http://tvstarlife.com:25461/maria01/maria01/193
+#EXTINF:-1 tvg-id="" tvg-name="FHD | DISNEY JUNIOR" tvg-logo="http://tvstarlife.com:25461/images/3b16040eae5ed7be2e6bab4880014b8a.png" group-title="TV | INFANTILES ( FHD )",FHD | DISNEY JUNIOR
+http://tvstarlife.com:25461/maria01/maria01/194
+#EXTINF:-1 tvg-id="" tvg-name="FHD | NICK" tvg-logo="http://tvstarlife.com:25461/images/78353b5a3b8541c2f0bdf61c7a3fcd71.png" group-title="TV | INFANTILES ( FHD )",FHD | NICK
+http://tvstarlife.com:25461/maria01/maria01/198
+#EXTINF:-1 tvg-id="" tvg-name="FHD | NICK JR" tvg-logo="http://tvstarlife.com:25461/images/d83a8b146dba69b3dadf74d3a30b7d00.png" group-title="TV | INFANTILES ( FHD )",FHD | NICK JR
+http://tvstarlife.com:25461/maria01/maria01/200
+#EXTINF:-1 tvg-id="" tvg-name="FHD | NICKTOONS" tvg-logo="http://tvstarlife.com:25461/images/f23832a88b39191189872d3a5e273969.png" group-title="TV | INFANTILES ( FHD )",FHD | NICKTOONS
+http://tvstarlife.com:25461/maria01/maria01/201
+#EXTINF:-1 tvg-id="" tvg-name="FHD | DISTRITO COMEDIA" tvg-logo="http://tvstarlife.com:25461/images/8437d455826806e18cd6143a885a2844.png" group-title="TV | ENTRETENIMIENTO ( FHD )",FHD | DISTRITO COMEDIA
+http://tvstarlife.com:25461/maria01/maria01/27291
+#EXTINF:-1 tvg-id="" tvg-name="FHD | COMEDY CENTRAL" tvg-logo="http://tvstarlife.com:25461/images/3afd46de7205719433b1e5a8f864e392.png" group-title="TV | ENTRETENIMIENTO ( FHD )",FHD | COMEDY CENTRAL
+http://tvstarlife.com:25461/maria01/maria01/27752
+#EXTINF:-1 tvg-id="" tvg-name="FHD | E !" tvg-logo="http://tvstarlife.com:25461/images/e720b5c7e7c5d344a5c5965595c77325.png" group-title="TV | ENTRETENIMIENTO ( FHD )",FHD | E !
+http://tvstarlife.com:25461/maria01/maria01/27292
+#EXTINF:-1 tvg-id="" tvg-name="FHD | LIFETIME" tvg-logo="http://tvstarlife.com:25461/images/ff3567e3cd2857c50469d4625bddec0d.png" group-title="TV | ENTRETENIMIENTO ( FHD )",FHD | LIFETIME
+http://tvstarlife.com:25461/maria01/maria01/27295
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Unicable" tvg-logo="http://tvstarlife.com:25461/images/35e0d0012c745618ba4875b28341d454.png" group-title="TV | ENTRETENIMIENTO ( FHD )",FHD | Unicable
+http://tvstarlife.com:25461/maria01/maria01/27523
+#EXTINF:-1 tvg-id="" tvg-name="FHD | PASIONES" tvg-logo="http://tvstarlife.com:25461/images/09c893023899cc9edc809fbf4206e30c.png" group-title="TV | ENTRETENIMIENTO ( FHD )",FHD | PASIONES
+http://tvstarlife.com:25461/maria01/maria01/1178
+#EXTINF:-1 tvg-id="" tvg-name="FHD | GARAGE TV" tvg-logo="http://tvstarlife.com:25461/images/8abf4b2bc8e269eebb995ac60b2bced9.png" group-title="TV | ENTRETENIMIENTO ( FHD )",FHD | GARAGE TV
+http://tvstarlife.com:25461/maria01/maria01/30036
+#EXTINF:-1 tvg-id="" tvg-name="FHD | Tlnovelas" tvg-logo="http://tvstarlife.com:25461/images/2efc70e710179037e1cab962a14ced48.png" group-title="TV | ENTRETENIMIENTO ( FHD )",FHD | Tlnovelas
+http://tvstarlife.com:25461/maria01/maria01/27942
